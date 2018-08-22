@@ -2,7 +2,7 @@
 <mathbook xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en-US">
 
 <docinfo>
-
+<brandlogo url="../images/nesmaa_logo.jpg" source="../images/nesmaa-logo.png" />
 <macros>
 \renewcommand{\tabcolsep}{2.4pt}
 \renewcommand{\arraystretch}{.77}
@@ -64,7 +64,6 @@
 
 <xi:include href="./schedule.ptx" />
 <xi:include href="./section_NExT.ptx" />
-
 <xi:include href="./invited_talks.ptx" />
 <xi:include href="./contributed_talks.ptx" />
 <xi:include href="./acknowledgements.ptx" />
