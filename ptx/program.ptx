@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<mathbook xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en-US">
+
+<docinfo>
+
+<macros>
+\renewcommand{\tabcolsep}{2.4pt}
+\renewcommand{\arraystretch}{.77}
+\newcommand{\tab}{}
+\newcommand{\suchthat}{\; \vert \;}
+\newcommand{\divides}{\!\mid\!}
+\newcommand{\tdiv}{\; \text{div} \;}
+\newcommand{\restrict}[2]{#1 \,_{\,#2}}
+\newcommand{\lcm}[2]{\text{lcm} (#1, #2)}
+\renewcommand{\gcd}[2]{\text{gcd} (#1, #2)}
+\newcommand{\Naturals}{{\mathbb N}}
+\newcommand{\Integers}{{\mathbb Z}}
+\newcommand{\Znoneg}{{\mathbb Z}^{\text{noneg}}}
+\newcommand{\Zplus}{{\mathbb N}}
+\newcommand{\Enoneg}{{\mathbb E}^{\text{noneg}}}
+\newcommand{\Qnoneg}{{\mathbb Q}^{\text{noneg}}}
+\newcommand{\Rnoneg}{{\mathbb R}^{\text{noneg}}}
+\newcommand{\Rationals}{{\mathbb Q}}
+\newcommand{\Reals}{{\mathbb R}}
+\newcommand{\Complexes}{{\mathbb C}}
+\newcommand{\relQ}{{\textsf Q}}
+\newcommand{\relR}{{\textsf R}}
+\newcommand{\nrelR}{\not{\textsf R}}
+\newcommand{\relS}{{\textsf S}}
+\newcommand{\relA}{{\textsf A}}
+\newcommand{\Dom}[1]{\text{Dom}(#1)}
+\newcommand{\Cod}[1]{\text{Cod}(#1)}
+\newcommand{\Rng}[1]{\text{Rng}(#1)}
+\DeclareMathOperator{\caret}{$\scriptstyle\wedge$}
+</macros>
+
+<latex-image-preamble>
+%\usepackage{tikz}
+%\usepackage{tkz-graph}
+%\usepackage{tkz-euclide}
+%\usetikzlibrary{patterns}
+%\usetikzlibrary{positioning}
+%\usetikzlibrary{matrix,arrows}
+%\usetikzlibrary{calc}
+%\usetikzlibrary{shapes}
+%\usetikzlibrary{through,intersections,decorations,shadows,fadings}
+%
+%\usepackage{pgfplots}
+\usepackage{color}
+\usepackage{graphicx}
+</latex-image-preamble>
+
+</docinfo>
+
+<book>
+<title>Meeting Program -- Fall 2018</title>
+<frontmatter>
+<titlepage>
+<author>
+<personname>Northeastern Section of the MAA</personname>
+</author>
+</titlepage>
+</frontmatter>
+
+<xi:include href="./schedule.ptx" />
+<xi:include href="./section_NExT.ptx" />
+
+<xi:include href="./invited_talks.ptx" />
+<xi:include href="./contributed_talks.ptx" />
+<xi:include href="./acknowledgements.ptx" />
+
+</book>
+</mathbook>
