@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<section>
+  <title>Schedule</title>
+ <p halign="center">  Friday, November 16, 2018 </p>
+ <p>
+  <tabular>
+    <row>
+      <cell>
+      	11:30am <mdash/> 6:00pm
+      </cell>
+      <cell>
+      	<bold>Registration</bold>
+      </cell>
+      <cell>
+        location tbd
+      </cell>
+    </row>
+    <row>
+      <cell>
+      	12:00 <mdash/> 12:30pm
+      </cell>
+      <cell>
+      	<bold>Section NEXT Lunch</bold>
+      </cell>
+      <cell>
+        location tbd
+      </cell>
+    </row>
+    <row>
+      <cell>
+      	12:30 <mdash/> 3:00pm
+      </cell>
+      <cell>
+      	<bold>Section NEXT Workshop</bold>
+      </cell>
+      <cell>
+      	location tbd
+      </cell>
+    </row>
+    <row>
+      <cell>
+      </cell>
+      <cell>
+      </cell>
+      <cell>
+      </cell>
+    </row>
+  </tabular>
+ </p>
+
+ <p halign="center">   Saturday, November 17, 2018 </p>
+
+ <p>
+  <tabular>
+    <row>
+      <cell>
+      </cell>
+      <cell>
+      </cell>
+      <cell>
+      </cell>
+    </row>
+    <row>
+      <cell>
+      </cell>
+      <cell>
+      </cell>
+      <cell>
+      </cell>
+    </row>
+    <row>
+      <cell>
+      </cell>
+      <cell>
+      </cell>
+      <cell>
+      </cell>
+    </row>
+    <row>
+      <cell>
+      </cell>
+      <cell>
+      </cell>
+      <cell>
+      </cell>
+    </row>
+  </tabular>
+ </p>
+</section>

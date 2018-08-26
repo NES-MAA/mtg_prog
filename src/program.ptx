@@ -52,7 +52,7 @@
 
 </docinfo>
 
-<book>
+<article xml:id="program">
 <title>Meeting Program -- Fall 2018</title>
 <frontmatter>
 <titlepage>
@@ -61,12 +61,12 @@
 </author>
 </titlepage>
 </frontmatter>
-
 <xi:include href="./schedule.ptx" />
 <xi:include href="./section_NExT.ptx" />
 <xi:include href="./invited_talks.ptx" />
 <xi:include href="./contributed_talks.ptx" />
+<xi:include href="./local_info.ptx" />
 <xi:include href="./acknowledgements.ptx" />
 
-</book>
+</article>
 </mathbook>

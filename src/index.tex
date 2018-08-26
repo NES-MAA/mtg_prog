@@ -1,0 +1,414 @@
+%**************************************%
+%*    Generated from PreTeXt source   *%
+%*    on 2018-08-25T21:59:16-04:00    *%
+%*                                    *%
+%*   http://mathbook.pugetsound.edu   *%
+%*                                    *%
+%**************************************%
+\documentclass[10pt,]{article}
+%% Custom Preamble Entries, early (use latex.preamble.early)
+%% Default LaTeX packages
+%%   1.  always employed (or nearly so) for some purpose, or
+%%   2.  a stylewriter may assume their presence
+\usepackage{geometry}
+%% Some aspects of the preamble are conditional,
+%% the LaTeX engine is one such determinant
+\usepackage{ifthen}
+\usepackage{ifxetex,ifluatex}
+%% Raster graphics inclusion
+\usepackage{graphicx}
+%% Colored boxes, and much more, though mostly styling
+%% skins library provides "enhanced" skin, employing tikzpicture
+%% boxes may be configured as "breakable" or "unbreakable"
+\usepackage{tcolorbox}
+\tcbuselibrary{skins}
+\tcbuselibrary{breakable}
+%% Hyperref should be here, but likes to be loaded late
+%%
+%% Inline math delimiters, \(, \), need to be robust
+%% 2016-01-31:  latexrelease.sty  supersedes  fixltx2e.sty
+%% If  latexrelease.sty  exists, bugfix is in kernel
+%% If not, bugfix is in  fixltx2e.sty
+%% See:  https://tug.org/TUGboat/tb36-3/tb114ltnews22.pdf
+%% and read "Fewer fragile commands" in distribution's  latexchanges.pdf
+\IfFileExists{latexrelease.sty}{}{\usepackage{fixltx2e}}
+%% Text height identically 9 inches, text width varies on point size
+%% See Bringhurst 2.1.1 on measure for recommendations
+%% 75 characters per line (count spaces, punctuation) is target
+%% which is the upper limit of Bringhurst's recommendations
+\geometry{letterpaper,total={340pt,9.0in}}
+%% Custom Page Layout Adjustments (use latex.geometry)
+%% This LaTeX file may be compiled with pdflatex, xelatex, or lualatex
+%% The following provides engine-specific capabilities
+%% Generally, xelatex and lualatex will do better languages other than US English
+%% You can pick from the conditional if you will only ever use one engine
+\ifthenelse{\boolean{xetex} \or \boolean{luatex}}{%
+%% begin: xelatex and lualatex-specific configuration
+%% fontspec package will make Latin Modern (lmodern) the default font
+\ifxetex\usepackage{xltxtra}\fi
+\usepackage{fontspec}
+%% realscripts is the only part of xltxtra relevant to lualatex 
+\ifluatex\usepackage{realscripts}\fi
+%% 
+%% Extensive support for other languages
+\usepackage{polyglossia}
+%% Main document language is US English
+\setdefaultlanguage{english}
+%% Spanish
+\setotherlanguage{spanish}
+%% Vietnamese
+\setotherlanguage{vietnamese}
+%% end: xelatex and lualatex-specific configuration
+}{%
+%% begin: pdflatex-specific configuration
+%% translate common Unicode to their LaTeX equivalents
+%% Also, fontenc with T1 makes CM-Super the default font
+%% (\input{ix-utf8enc.dfu} from the "inputenx" package is possible addition (broken?)
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+%% end: pdflatex-specific configuration
+}
+%% Symbols, align environment, bracket-matrix
+\usepackage{amsmath}
+\usepackage{amssymb}
+%% allow page breaks within display mathematics anywhere
+%% level 4 is maximally permissive
+%% this is exactly the opposite of AMSmath package philosophy
+%% there are per-display, and per-equation options to control this
+%% split, aligned, gathered, and alignedat are not affected
+\allowdisplaybreaks[4]
+%% allow more columns to a matrix
+%% can make this even bigger by overriding with  latex.preamble.late  processing option
+\setcounter{MaxMatrixCols}{30}
+%%
+%% Color support, xcolor package
+%% Always loaded, for: add/delete text, author tools
+\PassOptionsToPackage{usenames,dvipsnames,svgnames,table}{xcolor}
+\usepackage{xcolor}
+%%
+%% Semantic Macros
+%% To preserve meaning in a LaTeX file
+%% Only defined here if required in this document
+%% Subdivision Numbering, Chapters, Sections, Subsections, etc
+%% Subdivision numbers may be turned off at some level ("depth")
+%% A section *always* has depth 1, contrary to us counting from the document root
+%% The latex default is 3.  If a larger number is present here, then
+%% removing this command may make some cross-references ambiguous
+%% The precursor variable $numbering-maxlevel is checked for consistency in the common XSL file
+\setcounter{secnumdepth}{3}
+%% Environments with amsthm package
+%% Theorem-like environments in "plain" style, with or without proof
+\usepackage{amsthm}
+\theoremstyle{plain}
+%% Numbering for Theorems, Conjectures, Examples, Figures, etc
+%% Controlled by  numbering.theorems.level  processing parameter
+%% Always need a theorem environment to set base numbering scheme
+%% even if document has no theorems (but has other environments)
+\newtheorem{theorem}{Theorem}[section]
+%% Only variants actually used in document appear here
+%% Style is like a theorem, and for statements without proofs
+%% Numbering: all theorem-like numbered consecutively
+%% i.e. Corollary 4.3 follows Theorem 4.2
+%% Localize LaTeX supplied names (possibly none)
+%% For improved tables
+\usepackage{array}
+%% Some extra height on each row is desirable, especially with horizontal rules
+%% Increment determined experimentally
+\setlength{\extrarowheight}{0.2ex}
+%% Define variable thickness horizontal rules, full and partial
+%% Thicknesses are 0.03, 0.05, 0.08 in the  booktabs  package
+\makeatletter
+\newcommand{\hrulethin}  {\noalign{\hrule height 0.04em}}
+\newcommand{\hrulemedium}{\noalign{\hrule height 0.07em}}
+\newcommand{\hrulethick} {\noalign{\hrule height 0.11em}}
+%% We preserve a copy of the \setlength package before other
+%% packages (extpfeil) get a chance to load packages that redefine it
+\let\oldsetlength\setlength
+\newlength{\Oldarrayrulewidth}
+\newcommand{\crulethin}[1]%
+{\noalign{\global\oldsetlength{\Oldarrayrulewidth}{\arrayrulewidth}}%
+\noalign{\global\oldsetlength{\arrayrulewidth}{0.04em}}\cline{#1}%
+\noalign{\global\oldsetlength{\arrayrulewidth}{\Oldarrayrulewidth}}}%
+\newcommand{\crulemedium}[1]%
+{\noalign{\global\oldsetlength{\Oldarrayrulewidth}{\arrayrulewidth}}%
+\noalign{\global\oldsetlength{\arrayrulewidth}{0.07em}}\cline{#1}%
+\noalign{\global\oldsetlength{\arrayrulewidth}{\Oldarrayrulewidth}}}
+\newcommand{\crulethick}[1]%
+{\noalign{\global\oldsetlength{\Oldarrayrulewidth}{\arrayrulewidth}}%
+\noalign{\global\oldsetlength{\arrayrulewidth}{0.11em}}\cline{#1}%
+\noalign{\global\oldsetlength{\arrayrulewidth}{\Oldarrayrulewidth}}}
+%% Single letter column specifiers defined via array package
+\newcolumntype{A}{!{\vrule width 0.04em}}
+\newcolumntype{B}{!{\vrule width 0.07em}}
+\newcolumntype{C}{!{\vrule width 0.11em}}
+\makeatother
+%% Figures, Tables, Listings, Named Lists, Floats
+%% The [H]ere option of the float package fixes floats in-place,
+%% in deference to web usage, where floats are totally irrelevant
+%% You can remove some of this setup, to restore standard LaTeX behavior
+%% HOWEVER, numbering of figures/tables AND theorems/examples/remarks, etc
+%% may de-synchronize with the numbering in the HTML version
+%% You can remove the "placement={H}" option to allow flotation and
+%% preserve numbering, BUT the numbering may then appear "out-of-order"
+%% Floating environments: http://tex.stackexchange.com/questions/95631/
+\usepackage{float}
+\usepackage{newfloat}
+\usepackage{caption}%% Adjust stock table environment so that it no longer floats
+\SetupFloatingEnvironment{table}{fileext=lot,placement={H},within=section,name=Table}
+\captionsetup[table]{labelfont=bf}
+%% http://tex.stackexchange.com/questions/16195
+\makeatletter
+\let\c@table\c@theorem
+\makeatother
+%% More flexible list management, esp. for references and exercises
+%% But also for specifying labels (i.e. custom order) on nested lists
+\usepackage{enumitem}
+%% hyperref driver does not need to be specified, it will be detected
+\usepackage{hyperref}
+%% Hyperlinking active in PDFs, all links solid and blue
+\hypersetup{colorlinks=true,linkcolor=blue,citecolor=blue,filecolor=blue,urlcolor=blue}
+\hypersetup{pdftitle={Meeting Program -- Fall 2018}}
+%% If you manually remove hyperref, leave in this next command
+\providecommand\phantomsection{}
+%% Graphics Preamble Entries
+%\usepackage{tikz}
+%\usepackage{tkz-graph}
+%\usepackage{tkz-euclide}
+%\usetikzlibrary{patterns}
+%\usetikzlibrary{positioning}
+%\usetikzlibrary{matrix,arrows}
+%\usetikzlibrary{calc}
+%\usetikzlibrary{shapes}
+%\usetikzlibrary{through,intersections,decorations,shadows,fadings}
+%
+%\usepackage{pgfplots}
+\usepackage{color}
+\usepackage{graphicx}
+%% If tikz has been loaded, replace ampersand with \amp macro
+%% Custom Preamble Entries, late (use latex.preamble.late)
+%% Begin: Author-provided packages
+%% (From  docinfo/latex-preamble/package  elements)
+%% End: Author-provided packages
+%% Begin: Author-provided macros
+%% (From  docinfo/macros  element)
+%% Plus three from MBX for XML characters
+\renewcommand{\tabcolsep}{2.4pt}
+\renewcommand{\arraystretch}{.77}
+\newcommand{\tab}{}
+\newcommand{\suchthat}{\; \vert \;}
+\newcommand{\divides}{\!\mid\!}
+\newcommand{\tdiv}{\; \text{div} \;}
+\newcommand{\restrict}[2]{#1 \,_{\,#2}}
+\newcommand{\lcm}[2]{\text{lcm} (#1, #2)}
+\renewcommand{\gcd}[2]{\text{gcd} (#1, #2)}
+\newcommand{\Naturals}{{\mathbb N}}
+\newcommand{\Integers}{{\mathbb Z}}
+\newcommand{\Znoneg}{{\mathbb Z}^{\text{noneg}}}
+\newcommand{\Zplus}{{\mathbb N}}
+\newcommand{\Enoneg}{{\mathbb E}^{\text{noneg}}}
+\newcommand{\Qnoneg}{{\mathbb Q}^{\text{noneg}}}
+\newcommand{\Rnoneg}{{\mathbb R}^{\text{noneg}}}
+\newcommand{\Rationals}{{\mathbb Q}}
+\newcommand{\Reals}{{\mathbb R}}
+\newcommand{\Complexes}{{\mathbb C}}
+\newcommand{\relQ}{{\textsf Q}}
+\newcommand{\relR}{{\textsf R}}
+\newcommand{\nrelR}{\not{\textsf R}}
+\newcommand{\relS}{{\textsf S}}
+\newcommand{\relA}{{\textsf A}}
+\newcommand{\Dom}[1]{\text{Dom}(#1)}
+\newcommand{\Cod}[1]{\text{Cod}(#1)}
+\newcommand{\Rng}[1]{\text{Rng}(#1)}
+\DeclareMathOperator{\caret}{$\scriptstyle\wedge$}
+\newcommand{\lt}{<}
+\newcommand{\gt}{>}
+\newcommand{\amp}{&}
+%% End: Author-provided macros
+%% Title page information for article
+\title{Meeting Program -- Fall 2018}
+\author{Northeastern Section of the MAA
+}
+\date{}
+\begin{document}
+%% Target for xref to top-level element is document start
+\hypertarget{index}{}
+\maketitle
+\thispagestyle{empty}
+\typeout{************************************************}
+\typeout{Section 1 Schedule}
+\typeout{************************************************}
+\section[{Schedule}]{Schedule}\label{section-1}
+\leavevmode%
+\begin{table}
+\centering
+\begin{tabular}{lll}
+11:30am \textemdash{} 6:00pm&Registration&location tbd\tabularnewline[0pt]
+12:00 \textemdash{} 12:30pm&Section NEXT Lunch&location tbd\tabularnewline[0pt]
+12:30 \textemdash{} 3:00pm&Section NEXT Workshop&location tbd\tabularnewline[0pt]
+&&
+\end{tabular}
+\caption{Friday, November 16, 2018\label{table-1}}
+\end{table}
+\begin{table}
+\centering
+\begin{tabular}{lll}
+&&\tabularnewline[0pt]
+&&\tabularnewline[0pt]
+&&\tabularnewline[0pt]
+&&
+\end{tabular}
+\caption{Saturday, November 17, 2018\label{table-2}}
+\end{table}
+\typeout{************************************************}
+\typeout{Section 2 NES/MAA Section NExT Program}
+\typeout{************************************************}
+\section[{NES/MAA Section NExT Program}]{NES/MAA Section NExT Program}\label{section-2}
+\hypertarget{p-1}{}%
+The Northeastern Section is continuing a Section NExT (New Experiences in Teaching) program for new and relatively new colleagues on Friday just prior to the Fall section meeting.%
+\typeout{************************************************}
+\typeout{Section 3 Invited Presentations}
+\typeout{************************************************}
+\section[{Invited Presentations}]{Invited Presentations}\label{section-3}
+\typeout{************************************************}
+\typeout{Paragraphs  }
+\typeout{************************************************}
+\paragraph[{}]{}\hypertarget{paragraphs-1}{}
+\hypertarget{p-2}{}%
+Title: Artistic mathematics: truth and beauty.%
+\par
+\hypertarget{p-3}{}%
+Speaker: Henry Segerman, Oklahoma State University%
+\par
+\hypertarget{p-4}{}%
+Abstract: I'll talk about my work in mathematical visualization: making accurate, effective, and beautiful pictures, models, and experiences of mathematical concepts. I'll discuss what it is that makes a visualization compelling, and show many examples in the medium of 3D printing, as well as some explorations in virtual reality and spherical video.%
+\par
+\hypertarget{p-5}{}%
+Bio: Henry Segerman is an Associate Professor of Mathematics at Oklahoma State University.  He received his masters in mathematics from the University of Oxford in 2001, and his Ph.D. in mathematics from Stanford University in 2007. After post-doctoral positions at the University of Texas at Austin and the University of Melbourne, he joined the faculty at Oklahoma State University in 2013. His research interests are in three-dimensional geometry and topology, working mostly on triangulations of three-manifolds, and in mathematical art and visualization. In visualization, he works mostly in the medium of 3D printing, with other interests in spherical video, virtual, and augmented reality. He is the author of "Visualizing Mathematics with 3D Printing”, a popular mathematics book published by Johns Hopkins University Press in July 2016.%
+\typeout{************************************************}
+\typeout{Paragraphs  }
+\typeout{************************************************}
+\paragraph[{}]{}\hypertarget{paragraphs-2}{}
+\hypertarget{p-6}{}%
+Title: A Fake Title for a Math Talk.%
+\par
+\hypertarget{p-7}{}%
+Speaker: Ima Dumi, University of Northwestern Rhode Island%
+\par
+\hypertarget{p-8}{}%
+Abstract: blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah.%
+\par
+\hypertarget{p-9}{}%
+Bio: Ima Dumi is an Professor of Mathematics at UNRI.  She has very few publications as a result of being fictional.%
+\typeout{************************************************}
+\typeout{Section 4 Contributed Talks}
+\typeout{************************************************}
+\section[{Contributed Talks}]{Contributed Talks}\label{section-4}
+\typeout{************************************************}
+\typeout{Subsection 4.1 Room Number 1}
+\typeout{************************************************}
+\subsection[{Room Number 1}]{Room Number 1}\label{subsection-1}
+\typeout{************************************************}
+\typeout{Paragraphs  }
+\typeout{************************************************}
+\paragraph[{}]{}\hypertarget{paragraphs-3}{}
+\hypertarget{p-10}{}%
+Title: A Fake Title for a Math Talk.%
+\par
+\hypertarget{p-11}{}%
+Speaker: Ima Dumi, University of Northwestern Rhode Island%
+\par
+\hypertarget{p-12}{}%
+Abstract: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.%
+\par
+\hypertarget{p-13}{}%
+Bio: Ima Dumi is a Professor of Mathematics at UNRI.  She has very few publications as a result of being fictional.%
+\typeout{************************************************}
+\typeout{Paragraphs  }
+\typeout{************************************************}
+\paragraph[{}]{}\hypertarget{paragraphs-4}{}
+\hypertarget{p-14}{}%
+Title: Another Fake Title for a Math Talk.%
+\par
+\hypertarget{p-15}{}%
+Speaker: Ima Noether Dumi, University of SouthEastern Rhode Island%
+\par
+\hypertarget{p-16}{}%
+Abstract: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.%
+\par
+\hypertarget{p-17}{}%
+Bio: Ima Noether Dumi is a Professor of Mathematics at USRI.  She also has very few publications as a result of being fictional.%
+\typeout{************************************************}
+\typeout{Subsection 4.2 Room Number 2}
+\typeout{************************************************}
+\subsection[{Room Number 2}]{Room Number 2}\label{subsection-2}
+\typeout{************************************************}
+\typeout{Paragraphs  }
+\typeout{************************************************}
+\paragraph[{}]{}\hypertarget{paragraphs-5}{}
+\hypertarget{p-18}{}%
+Title: A Fake Title for a Math Talk.%
+\par
+\hypertarget{p-19}{}%
+Speaker: Ima Dumi, University of Northwestern Rhode Island%
+\par
+\hypertarget{p-20}{}%
+Abstract: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.%
+\par
+\hypertarget{p-21}{}%
+Bio: Ima Dumi is a Professor of Mathematics at UNRI.  She has very few publications as a result of being fictional.%
+\typeout{************************************************}
+\typeout{Paragraphs  }
+\typeout{************************************************}
+\paragraph[{}]{}\hypertarget{paragraphs-6}{}
+\hypertarget{p-22}{}%
+Title: Another Fake Title for a Math Talk.%
+\par
+\hypertarget{p-23}{}%
+Speaker: Ima Noether Dumi, University of SouthEastern Rhode Island%
+\par
+\hypertarget{p-24}{}%
+Abstract: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.%
+\par
+\hypertarget{p-25}{}%
+Bio: Ima Noether Dumi is a Professor of Mathematics at USRI.  She also has very few publications as a result of being fictional.%
+\typeout{************************************************}
+\typeout{Section 5 Local Information}
+\typeout{************************************************}
+\section[{Local Information}]{Local Information}\label{section-5}
+\hypertarget{p-26}{}%
+WiFi: How to login to wireless.%
+\par
+\hypertarget{p-27}{}%
+Campus Police: Call xxx-xxxx for any safety or security issues.%
+\par
+\hypertarget{p-28}{}%
+%
+\typeout{************************************************}
+\typeout{Section 6 Acknowledgements}
+\typeout{************************************************}
+\section[{Acknowledgements}]{Acknowledgements}\label{section-6}
+\hypertarget{p-29}{}%
+Program Committee%
+\par
+\hypertarget{p-30}{}%
+\leavevmode%
+\begin{itemize}[label=\textbullet]
+\item{}Lauren Sager, Saint Anselm College%
+\item{}Braxton Carrigan, Southern Connecticut State University%
+\item{}Joe Fields, Southern Connecticut State University%
+\item{}Bill Jamieson, Southern New Hamshire University%
+\end{itemize}
+%
+\par
+\hypertarget{p-31}{}%
+Local Arrangements Committee%
+\par
+\hypertarget{p-32}{}%
+\leavevmode%
+\begin{itemize}[label=\textbullet]
+\item{}Adam Gilbert, Southern New Hamshire University%
+\item{}Megan Sawyer, Southern New Hamshire University%
+\item{}Teresa Magnus, Rivier University%
+\end{itemize}
+%
+\end{document}
