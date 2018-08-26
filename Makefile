@@ -13,11 +13,11 @@ pdf/program.aux: pdf/program.tex
 	cd pdf; pdflatex program
 
 pdf/program.tex: src/*.ptx 
-	cd pdf; test ! -e images && ln -s ../images images; xsltproc --xinclude ${PTX_HOME}/xsl/mathbook-latex.xsl ../src/program.ptx
+	cd pdf; test ! -e images && ln -s ../images images; cp ../xsl-stylesheets/program-latex.xsl ${PTX_HOME}/user/; xsltproc --xinclude ${PTX_HOME}/user/program-latex.xsl ../src/program.ptx
 
 
 html/program.html: src/*.ptx
-	cd html; test ! -e images && ln -s ../images images; xsltproc --stringparam html.css.extra extra.css --stringparam html.knowl.example.inline no --stringparam html.knowl.exercise.inline no --xinclude ${PTX_HOME}/xsl/mathbook-html.xsl ../src/program.ptx
+	cd html; test ! -e images && ln -s ../images images; cp ../xsl-stylesheets/program-html.xsl ${PTX_HOME}/user/; xsltproc --xinclude ${PTX_HOME}/user/program-html.xsl ../src/program.ptx
 
 clean::
 	rm ./*~ ./*/*~ ./*/*.bak ./*.bak ./pdf/*.pdf ./pdf/*.aux ./pdf/*.tex ./pdf/*.out ./pdf/*.log ./pdf/images ./html/*.html ./html/images; rm -rf html/knowl/

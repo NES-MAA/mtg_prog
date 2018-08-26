@@ -55,11 +55,11 @@
 <article xml:id="program">
 <title>Meeting Program -- Fall 2018</title>
 <frontmatter>
-<titlepage>
+
 <author>
 <personname>Northeastern Section of the MAA</personname>
 </author>
-</titlepage>
+
 </frontmatter>
 <xi:include href="./schedule.ptx" />
 <xi:include href="./section_NExT.ptx" />
