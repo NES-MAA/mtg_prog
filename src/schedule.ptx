@@ -4,49 +4,187 @@
   <title>Schedule</title>
  <p halign="center">  Friday, November 16, 2018 </p>
  <p>
+  <table>
   <tabular>
     <row>
       <cell>
-      	11:30am <mdash/> 6:00pm
+        <line>
+        </line>
+        <line>
+          12:00
+        </line>
       </cell>
-      <cell>
-      	<bold>Registration</bold>
-      </cell>
-      <cell>
-        location tbd
-      </cell>
-    </row>
-    <row>
-      <cell>
-      	12:00 <mdash/> 12:30pm
-      </cell>
-      <cell>
-      	<bold>Section NEXT Lunch</bold>
-      </cell>
-      <cell>
-        location tbd
+      <cell colspan="4">
+        Registration runs from 11:30 to 6:00 pm in ???
       </cell>
     </row>
     <row>
       <cell>
-      	12:30 <mdash/> 3:00pm
+        <line>
+        </line>
+        <line>
+          1:00
+        </line>
       </cell>
-      <cell>
-      	<bold>Section NEXT Workshop</bold>
-      </cell>
-      <cell>
-      	location tbd
+      <cell halign="center" colspan="4">
+        Section NExT Luncheon
       </cell>
     </row>
     <row>
       <cell>
+        <line>
+        </line>
+        <line>
+          2:00
+        </line>
+      </cell>
+      <cell halign="center" colspan="4">
+        <line>
+          Section NExT Speaker
+        </line>
+        <line>
+          Mihai Stoiciu
+        </line>
+      </cell>
+    </row>
+    <row>
+      <cell>
+        <line>
+        </line>
+        <line>
+          3:00
+        </line>
+      </cell>
+      <cell halign="center">
+        <line>
+          Executive&nbsp;
+        </line>
+        <line>
+          Committee
+        </line>
+        <line>
+          Meeting
+        </line>
       </cell>
       <cell>
       </cell>
       <cell>
+      </cell>
+      <cell halign="center">
+        <line>
+          Collegiate Math
+        </line>
+        <line>
+          Competition
+        </line>
+      </cell>
+    </row>
+    <row>
+      <cell>
+        <line>
+        </line>
+        <line>
+          4:00
+        </line>
+      </cell>
+      <cell>
+      </cell>
+      <cell>
+      </cell>
+      <cell>
+      </cell>
+      <cell>
+      </cell>
+    </row>
+    <row>
+      <cell>
+        <line>
+        </line>
+        <line>
+          5:00
+        </line>
+      </cell>
+      <cell>
+        <line>
+          Maker Space
+        </line>
+        <line>
+          Open House
+        </line>
+      </cell>
+      <cell>
+        <line>
+          Puzzle
+        </line>
+        <line>
+          Hunt!
+        </line>
+      </cell>
+      <cell>
+      </cell>
+      <cell>
+        <line>
+          Math Circle
+        </line>
+        <line>
+          Demonstration
+        </line>
+      </cell>
+    </row>
+    <row>
+      <cell>
+        <line>
+        </line>
+        <line>
+        </line>
+        <line>
+          6:30
+        </line>
+      </cell>
+      <cell halign="center" colspan="4">
+        Student Talks
+      </cell>
+    </row>
+    <row>
+      <cell>
+        <line>
+        </line>
+        <line>
+        </line>
+        <line>
+          8:00
+        </line>
+      </cell>
+      <cell halign="center" colspan="4">
+        <line>
+          Reception and
+        </line>
+        <line>
+          Banquet
+        </line>
+      </cell>
+    </row>
+    <row>
+      <cell>
+        <line>
+        </line>
+        <line>
+        </line>
+        <line>
+        </line>
+      </cell>
+      <cell halign="center" colspan="4">
+        <line>
+          Christie Lecture
+        </line>
+        <line>
+          Henry Segerman
+        </line>
       </cell>
     </row>
   </tabular>
+</table>
+  
  </p>
 
  <p halign="center">   Saturday, November 17, 2018 </p>
