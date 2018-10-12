@@ -4,7 +4,7 @@
   <title>Schedule</title>
  <p halign="center">  Friday, November 16, 2018 </p>
  <p>
-  <table>
+   <table>
   <tabular>
     <row>
       <cell>
@@ -14,31 +14,31 @@
           12:00
         </line>
       </cell>
-      <cell colspan="4">
+      <cell colspan="4" bottom="medium">
         Registration runs from 11:30 to 6:00 pm in ???
       </cell>
     </row>
     <row>
-      <cell>
+      <cell right="medium">
         <line>
         </line>
         <line>
           1:00
         </line>
       </cell>
-      <cell halign="center" colspan="4">
+      <cell halign="center" colspan="4" right="medium" bottom="medium">
         Section NExT Luncheon
       </cell>
     </row>
     <row>
-      <cell>
+      <cell right="medium">
         <line>
         </line>
         <line>
           2:00
         </line>
       </cell>
-      <cell halign="center" colspan="4">
+      <cell halign="center" colspan="4" right="medium" bottom="medium">
         <line>
           Section NExT Speaker
         </line>
@@ -48,14 +48,14 @@
       </cell>
     </row>
     <row>
-      <cell>
+      <cell right="medium">
         <line>
         </line>
         <line>
           3:00
         </line>
       </cell>
-      <cell halign="center">
+      <cell halign="center" right="medium">
         <line>
           Executive&nbsp;
         </line>
@@ -68,9 +68,9 @@
       </cell>
       <cell>
       </cell>
-      <cell>
+      <cell right="medium">
       </cell>
-      <cell halign="center">
+      <cell halign="center" right="medium">
         <line>
           Collegiate Math
         </line>
@@ -80,31 +80,31 @@
       </cell>
     </row>
     <row>
-      <cell>
+      <cell right="medium">
         <line>
         </line>
         <line>
           4:00
         </line>
       </cell>
-      <cell>
+      <cell right="medium" bottom="medium">
       </cell>
-      <cell>
+      <cell bottom="medium">
       </cell>
-      <cell>
+      <cell right="medium" bottom="medium">
       </cell>
-      <cell>
+      <cell right="medium" bottom="medium">
       </cell>
     </row>
     <row>
-      <cell>
+      <cell right="medium">
         <line>
         </line>
         <line>
           5:00
         </line>
       </cell>
-      <cell>
+      <cell right="medium" bottom="medium">
         <line>
           Maker Space
         </line>
@@ -112,7 +112,7 @@
           Open House
         </line>
       </cell>
-      <cell>
+      <cell colspan="2" right="medium" bottom="medium">
         <line>
           Puzzle
         </line>
@@ -120,9 +120,7 @@
           Hunt!
         </line>
       </cell>
-      <cell>
-      </cell>
-      <cell>
+      <cell right="medium" bottom="medium">
         <line>
           Math Circle
         </line>
@@ -132,7 +130,7 @@
       </cell>
     </row>
     <row>
-      <cell>
+      <cell right="medium">
         <line>
         </line>
         <line>
@@ -141,12 +139,12 @@
           6:30
         </line>
       </cell>
-      <cell halign="center" colspan="4">
+      <cell halign="center" colspan="4" right="medium" bottom="medium">
         Student Talks
       </cell>
     </row>
     <row>
-      <cell>
+      <cell right="medium">
         <line>
         </line>
         <line>
@@ -155,7 +153,7 @@
           8:00
         </line>
       </cell>
-      <cell halign="center" colspan="4">
+      <cell halign="center" colspan="4" right="medium" bottom="medium">
         <line>
           Reception and
         </line>
@@ -165,7 +163,7 @@
       </cell>
     </row>
     <row>
-      <cell>
+      <cell right="medium">
         <line>
         </line>
         <line>
@@ -173,7 +171,7 @@
         <line>
         </line>
       </cell>
-      <cell halign="center" colspan="4">
+      <cell halign="center" colspan="4" right="medium" bottom="medium">
         <line>
           Christie Lecture
         </line>
@@ -183,8 +181,7 @@
       </cell>
     </row>
   </tabular>
-</table>
-  
+   </table>  
  </p>
 
  <p halign="center">   Saturday, November 17, 2018 </p>
