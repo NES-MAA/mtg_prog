@@ -4,298 +4,234 @@
   <title>Undergraduate Student Talks <mdash/> Friday, 5:00 to 6:30pm</title>
 
   <subsection>
-    <title>Session I, Engleman Hall C113 </title>
+    <title>Session I, ACC 105A </title>
 
-  <paragraphs>
+<paragraphs><title>Allison Gagliano</title> <p>Eastern Connecticut State University</p>
 
-    <p><bold>5:10<mdash/>5:20 <nbsp/> Title:</bold> Tossing a Coin over the Telephone</p>
+<p><emph> Multivariate statistical models and their application to the study of adolescent alcohol use</emph></p>
 
-    <p><bold>Speaker:</bold> Andy Penfield, Keene State College</p>
+<p>I used binary logistic regression to construct a model to answer the question: which variables among region, urbanicity, number of parents in a household, parental education level, religiosity, marijuana use, and gender predict adolescent alcohol use? I used the 2015 12th Grade Monitoring the Future dataset to construct a model which predicts the likelihood of an adolescent using alcohol. I concluded that the model including gender, marijuana use, urbanicity, mother education level, and religiosity significantly predicts adolescent alcohol use.  (Advisor: Peter Johnson)</p>
 
-    <p><bold>Abstract:</bold> There are many examples of social situations where flipping a coin is used as a 
-    method to determine randomly a choice between two options. However if two people talking on the telephone 
-    need to make that decision then flipping a physical coin won’t work because both people will not be able 
-    to witness the toss. A method for making a decision between two choices without the physical presence of 
-    both will be presented along with a mathematical justification for why it works. </p>
-  </paragraphs>
+</paragraphs>
 
-  <paragraphs>
-    <p><bold>5:22<mdash/>5:32 <nbsp/> Title:</bold> The Kolakoski Sequence</p>
 
-    <p><bold>Speaker:</bold> Kegan Landfair, Keene State College</p>
+<paragraphs><title>Matthew Dogali</title> <p>Worcester State University</p>
 
-    <p><bold>Abstract:</bold> The Kolakoski sequence is an infinite, self-determined sequence of 1's and 2's. 
-    The sequence does not repeat and contains at most 2 consecutive identical terms. There are many open 
-    questions involving the Kolakoski sequence including the question as to whether or not the sequence, in 
-    the long run, has a one to one ratio of 1's to 2's. Geometric ways of representing the sequence will be 
-    discussed.</p>
-  </paragraphs>
-  
-  <paragraphs>
-    <p><bold>5:34<mdash/>5:44 <nbsp/> Title:</bold> Fourier Coefficients of Squigonometric Functions</p> 
+<p><emph>Basic Needs Insecurity at Worcester State University</emph></p>
 
-    <p><bold>Speaker:</bold> Rye Howard-Stone, Southern Connecticut State University</p>
+<p>Quality access to food and housing is a widely spread problem for students at Worcester State University, and their affects creep into the classroom to impact students grades. This paper will define the overarching issue of basic needs insecurities, provide analysis of student data from Worcester State University, and suggest actions that will be taken to reduce the impact of these insecurities. Through this analysis, I will determine which demographics are impacted most and what level of impact basic needs insecurities have on grades. This paper will use three major statistical test, a Fisher Exact test, Linear Regression, and Pearson's Product Moment Correlation test. Similar analyses have been conducted through colleges throughout Massachusetts due to the prevalence and importance of basic needs insecurities. This paper will add another level of understanding to this issue, and provide support for programs to help.  (Advisor: Jason Hardin)
+</p>
+</paragraphs>
 
-    <p><bold>Abstract:</bold> The cosine and sine functions keep track of the x and y components of a point in motion at uniform speed 
-around the Unit Circle. If we replace the Unit Circle with the Unit Squircle  we get analogous functions 
-called 'cosquine' and 'squine.' Several authors have studied these functions. The derivatives, and thus 
-the Taylor Series, are readily computable. We decided to explore them via Fourier Analysis. The analytic 
-approach was intractable, so we used numerical integration.
-    </p>
-  </paragraphs>
-  
-  <paragraphs>
-    <p><bold>5:46<mdash/>5:56 <nbsp/> Title:</bold> Soddyian Triangles</p> 
 
-    <p><bold>Speaker:</bold> Jeff Garand, Keene State College</p>
+<paragraphs><title>Sarah Doubleday</title> <p>Keene State College</p>
 
-    <p><bold>Abstract:</bold> Three circles are configured so that each pair has exactly one point in common.
-From this two more circles can be constructed, tangent to the given three, which we call the inner and outer Soddy circles. A Soddyian triangle is defined as a triangle whose outer Soddy circle degenerates into a straight line. This talk will examine properties of these triangles.
+<p><emph>Visual Gems of Number Theory</emph></p>
 
-    </p>
-  </paragraphs>
-  
-  <paragraphs>
-    <p><bold>5:58<mdash/>6:08 <nbsp/> Title:</bold> Arbelos and Their Generalizations</p> 
+<p>Many of the theorems that we prove in Number Theory can be represented in a visual way. For example, we can show facts about triangular numbers using dots and forming them into a triangle. In this presentation, we shall explain some of these visual proofs and talk about how they could be used in a middle school classroom.  (Advisor: Vincent Ferlini)</p>
+</paragraphs>
 
-    <p><bold>Speaker:</bold> Derek Blunt, Keene State College</p>
 
-    <p><bold>Abstract:</bold> An arbelos is a planar region bounded by three mutually tangent semicircles whose 
-    diameters all lay on the same line. Many interesting properties of this shape were discovered by Archimedes 
-    over 2000 years ago. This talk will explore the properties of the arbelos and then generalize to figures 
-    bounded by similar curves such as parabolas.
-    </p>
-  </paragraphs>
+<paragraphs><title>Sarah McVey</title><p> Keene State College</p>
+
+<p><emph>4th Dimensional Geometry</emph></p>
+
+<p>Our lives are entirely within a 3rd dimension space even when we can draw and design in 2-dimesnion and 1-dimension space. However, our world holds many more dimensions than just those three. This presentation will go over a 4th space dimension and how we can view objects within that dimension aided by Euler’s Formula and moving visuals. We will also give a brief view of the number system unique to that dimension.  (Advisor: Karen Stanish)</p>
+</paragraphs>
+
+
+<paragraphs><title>Nicholas Ahlgren</title><p> Keene State College</p>
+
+<p><emph>Repunits and Arithmetic Progressions</emph></p>
+
+<p>There are many different aspects in mathematics that still need to be investigated further. This talk will focus around repunits and arithmetic progressions. A repunit is a positive integer in the form of kkk…kkk where k is any non-zero digit. In this talk, we shall explore these repunits in connection with arithmetic progressions. We shall also see how to classify and determine when a sequence has repunits and allude to the idea of why some sequences do not have any repunits. (Advisor: Vincent Ferlini)</p>
+</paragraphs>
+
+
+<paragraphs><title>Hannah Melanson</title><p> Keene State College</p>
+
+<p><emph>Repeating Integer Paradox</emph></p>
+
+<p>The decimal representation for the fraction <m>1/3</m> is <m>0.3333\ldots = 0.\overline{3} </m> where the three dots and the bar above the 3 each indicate that the threes continue without end. This repetition of digits can be done in the other direction to create <m>\ldots3333</m> represented by <m>\overleftarrow{3}</m>. This does not look like any natural number since there are infinitely many threes. In this presentation, we use some of the same techniques used in showing the relationship between <m>1/3</m> and <m>\overline{3}</m> along with some modular ten arithmetic to give meaning to <m>\overleftarrow{3}</m> and other repeating integers having this form.
+(Advisor: Vincent Ferlini)</p>
+</paragraphs>
+
+
+<paragraphs><title>Patrick Lambert</title><p> Keene State College</p>
+
+<p><emph>Sandy Numbers + Drawing = Fun Time</emph></p>
+
+<p>This presentation will introduce Sona drawings of the Chokwe people and how they can be drawn using permutations. We will use mathematical ideas to answer a simple question of, “Can we draw these drawings without lifting our fingers or changing directions?”   (Advisor: Karen Stanish)</p>
+</paragraphs>
+
 </subsection>
 
 <subsection>
-    <title>Session II, Engleman Hall C115</title>
-<paragraphs>
-    <p><bold>5:10<mdash/>5:20 <nbsp/> Title:</bold> Symbolic Computations Course at WestConn: A Mathematical Tour with Computer Assistance </p> 
+  <title> Session II, ACC 204 </title>
 
-    <p><bold>Speaker:</bold> Leah Lalama, Western Connecticut State University</p>
+<paragraphs><title>Samantha Sullivan</title><p> Keene State College</p>
 
-    <p><bold>Abstract:</bold> The current version of this new interdisciplinary course is designed as a review of basic 
-    concepts, selected facts, and techniques from three mathematical fields: number theory, probability and statistics, 
-    and calculus. The main distinguished feature of the course is an intensive hands-on use of a computer algebra system 
-    (currently Maple) for creating visual displays and animations, performing tedious simulations, and problem solving. 
-    We will present examples of the course materials and comment on possible alterations of the course and the ongoing 
-    textbook project.
+<p><emph>HS Sequences</emph></p>
 
-    </p>
-  </paragraphs>
-  
-  <paragraphs>
-    <p><bold>5:22<mdash/>5:32 <nbsp/> Title:</bold> When Mathematics Meets Physics: Kepler’s problem.</p> 
+<p>A sequence of nonnegative integers begins with 2 followed by 3. The product is 6 and the sequence now becomes 2, 3, 6 . The next product 3×6=18 creates two values 1 and 8 and the sequence is extended to 2, 3, 6, 1, 8 . The next product 6×1=6 results in 2, 3, 6, 1, 8, 6 . The sequence will continue infinitely in this manner because each multiplication produces a single or double-digit nonnegative integer, so either one or two values will always be added on the “tail” of the sequence. This sequence first appeared in a problem devised by Hugo Steinhaus. A sequence generated in this way can begin with any two nonnegative single digits and it will be referred to as an HS sequence. This talk will analyze the long-term behavior of these sequences.  (Advisor: Vincent Ferlini)</p>
 
-    <p><bold>Speaker:</bold> Joshua Torres, Western Connecticut State University</p>
+</paragraphs>
 
-    <p><bold>Abstract:</bold> In 1609 Kepler presented his three famous laws of motion for a planet traveling around 
-    the sun. Later Newton verified Kepler’s laws using his famous inverse square law of gravity. I will describe the 
-    problem formulation and rich set of mathematical tools used for its analysis. Verification of the second Kepler’s 
-    law and relevant visual displays will be also presented. The project is part of the course work in a new course 
-    Symbolic Computation at Western Connecticut State University. 
-    </p>
-  </paragraphs>
-  <paragraphs>
-    <p><bold>5:34<mdash/>5:44 <nbsp/> Title:</bold> What are the true effects of smoking?</p> 
+<paragraphs><title>Angela Moore</title><p> Norwich University</p>
 
-    <p><bold>Speaker:</bold> Kasandra Kelley, Eastern Connecticut State University</p>
+<p><emph>Star Chromatic Indices of Cycles and Complete Graphs</emph></p>
 
-    <p><bold>Abstract:</bold> In the past few years’ people have been trying to cut down on smoking habits for health 
-    reasons. It seems to be one of the hardest habits to break for people. So what causes people to smoke so much? 
-    In this study we are trying to figure out the relationship between smoking habits, gender and race. We are also 
-    curious to see if the hours someone works a week affects how much someone has smoked.
-    </p>
-  </paragraphs>
-  
-  <paragraphs>
-    <p><bold>5:46<mdash/>5:56 <nbsp/> Title:</bold> Drink a Little or Drink a Lot</p> 
+<p>In this talk, we look at edge colorings, which are the assignment of colors to the edges of a graph where two adjacent edges cannot be the same color. Specifically we will discuss the star chromatic index, the minimum number of colors needed to color a proper edge coloring of a graph where any path of four cannot be colored with only two colors. We present results on the star chromatic index for cycles and complete graphs.  (Advisor: Addie Armstrong)</p>
+</paragraphs>
 
-    <p><bold>Speaker:</bold> Lisa Ferrari, Eastern Connecticut State University</p>
 
-    <p><bold>Abstract:</bold> Alcohol is traditionally viewed as a norm of American society. However, there is a gap 
-    in research regarding the effects of location and gender based on alcohol consumption for different periods of 
-    time. For example, is alcohol consumption related to living in rural or urban communities? Are men more likely 
-    to drink than woman?
-    </p>
-  </paragraphs>
-  
-  <paragraphs>
-    <p><bold>5:58<mdash/>6:08 <nbsp/> Title:</bold> High School Graduate Goals</p> 
+<paragraphs><title>Joseph Lindenmayer</title><p> Worcester State University</p>
 
-    <p><bold>Speaker:</bold> Nicole Vigorita, Eastern Connecticut State University</p>
+<p><emph>Testing the Efficiency of the Gambling Market for the NFL</emph></p>
 
-    <p><bold>Abstract:</bold> This is a statistical analysis studying the relationships between attendance at 
-    technical/vocational schools, two-year colleges, four-year colleges, and joining the armed forces. 
-    Specifically, attending a technical/vocational school and graduating from a two year college, serving in 
-    the armed forces and graduating from a four year college, and if it is more common to attend a two-year or 
-    four-year college are discussed.
-    </p>
-  </paragraphs>
-    
+<p>The goal of this project is to identify if there is a reliable way to gamble on the results of NFL football games. Gambling sites and Vegas use a point spread and adjust according to public opinion in order to mitigate risk on each game. Using the efforts of both teams as explanatory variables, is it possible to predict the winner of the point spread before the game occurs? Considering statistics like offensive yards per game, turnovers or sacks can likely predict the winner and loser of a football game, it is anticipated that there is a regression model with a set of explanatory variables that should be able to profit in gambling against the point spread over the course of a season.  (Advisor: Jason Hardin)</p>
+
+</paragraphs>
+
+<paragraphs><title>Sarah Otterbeck</title><p> Keene State College</p>
+
+<p><emph>Matroid + Groups = ?</emph></p>
+
+<p>What happens when we form a combination of the algebraic structure of a group with the combinatorial structure of a matroid? The matroid is a mathematical abstraction that emerged from linear algebra but soon was developed throughout many other areas, namely; graph theory, combinatorics, and topology. Groups have been well defined in abstract algebra as a set of elements with a defined binary operation satisfying closure, invertibility, identity, and associativity. This presentation will investigate the intersection of these two structures.  (Advisor: Karen Stanish)</p>
+</paragraphs>
+
+<paragraphs><title>Olivia Behenna</title><p> Merrimack College</p>
+
+<p><emph>Cribbage: Counting Techniques, Partitions <ampersand /> Generating Functions</emph></p>
+
+
+<p>The card game cribbage has been used in the classroom as a way to enhance mental math skills at the K-12 and postsecondary levels. At the elementary level, educators can introduce their students to number sense by having them find pairs of cards that sum to fifteen, as obtaining fifteens is a crucial way to earn points in the game. In this talk, we will take a deeper look at the different ways to sum to fifteen in the context of the game of cribbage. We will encounter counting techniques, including partitions and generating functions, which will help us to discover the 10,540 different ways that a sum of fifteen could appear in a cribbage hand.  (Advisor: Dana Rowland)</p>
+</paragraphs>
+
+
+<paragraphs><title>Dillon Chase</title><p> Keene State College</p>
+
+<p><emph>Modeling spatial decisions with graph theory: logging roads and forest fragmentation in the Brazilian Amazon</emph></p>
+
+<p>This presentation addresses the spatial decision making of loggers and how it effects forest fragmentation in the Amazon basin. It provides a behavioral explanation for fragmentation by modeling how loggers build road networks. We will model how loggers shape their road networks by adapting graph theory to represent the spatial decision-making of loggers, and then implementing computational algorithms that build graphs interpretable as logging road networks.  (Advisor: Karen Stanish)</p>
+</paragraphs>
+
+<paragraphs><title>Stefanie Coffman</title><p> Plymouth State University</p>
+
+<p><emph>Determining the Number of <m>LU</m> Decompositions of Matrices in <m>M_2(\Z_n)</m></emph>
+</p>
+<p>We expand the definition of <m>LU</m> decomposition to explore decompositions of matrices in <m>M_2(\Z_n)</m>. Focusing on matrices in <m>M_2(\Z_n)</m>, we determine a case when there are never any decompositions. Some matrices have multiple decompositions with the expanded definition. Focusing on matrices in <m>M_2(\Z_p)</m>, we pursue an upper and lower bound of the number of decompositions. We find a specific number of decompositions for the identity matrix in <m>M_2(\Z_p)</m>.  (Advisor: Emma Wright)</p>
+</paragraphs>
+
 </subsection>
 
-<subsection>
-    <title>Session III, Engleman Hall C132</title>
-<paragraphs>
-    <p><bold>5:10<mdash/>5:20 <nbsp/> Title:</bold> A Generalization of Higher Dimension Fibonacci Matrices and Their Graphs</p> 
+<subsection><title>Session III, ACC 206</title> 
 
-    <p><bold>Speaker:</bold> Zachery Lancto, Westfield State University</p>
+<paragraphs><title>Michael Bubolo</title><p> Sacred Heart University</p>
 
-    <p><bold>Abstract:</bold> The <m>2 \times 2</m> Fibonacci matrix is well-studied in mathematics. The concept of the 
-    Fibonacci matrix and its associated graph can easily be extended to higher dimensions using concepts and techniques 
-    from linear algebra, graph theory, and discrete mathematics. We define  <m>n \times n</m> Virahanka matrices as the 
-    generalization of the Fibonacci matrix. A Virahanka matrix has the property that, when raised to integer powers, all 
-    its entries are Fibonacci numbers. We examine <m>n \times n</m> Virahanka matrices where and discuss their underlying 
-    graphs and recurrence relationships.
-    </p>
-  </paragraphs>
-  
-  <paragraphs>
-    <p><bold>5:22<mdash/>5:32 <nbsp/> Title:</bold> Musical Exploratory Data Analysis</p> 
+<p><emph>Difference Equations and Their Dynamics</emph></p>
 
-    <p><bold>Speaker:</bold> Rachael Fountain, Westfield State University</p>
+<p>Difference equations describe the evolution of a quantity or population whose changes are measured over discrete time intervals. In this presentation, we will investigate these types of recursive relations and classify the local stability of their fixed points and periodic solutions. In particular, we will examine the dynamics of the logistic map and the long-term behavior that occurs when we modify its parameter.  (Advisor: Elliott Bertrand)</p>
+</paragraphs>
 
-    <p><bold>Abstract:</bold> Music is so much more than just the notes, pitches, and beats we hear. In fact there are 
-    surprising connections between music and mathematics that can be uncovered through exploratory data analysis. In 
-    this presentation we will discuss how we used EDA to create two visual graphics which we call will variability 
-    graphs and contour graphs. These graphics will then be used in combination with statistics and real analysis to 
-    investigate the relationship between musical melodies and mathematics.
-    </p>
-  </paragraphs>
-  
-  <paragraphs>
-    <p><bold>5:34<mdash/>5:44 <nbsp/> Title:</bold> Minimal Forcing Set Algorithm: A Study of Origami</p> 
 
-    <p><bold>Speaker:</bold> Tianna Procon, Western New England University</p>
+<paragraphs><title>Sean Rainville</title><p> Plymouth State University</p>
 
-    <p><bold>Abstract:</bold> This presentation explores single-vertex folds of varying degrees and their 
-    respective minimal forcing sets as follows: each crease is assigned to be either a mountain or a valley 
-    fold. Then, a minimal forcing set is the fewest number of creases needed to force the mountain-valley 
-    assignment of the remaining creases. Doing this research we hope to form an algorithm allowing one to 
-    find the minimal forcing set of creases for any single-vertex fold without needing to exhaust all 
-    possibilities.
-    </p>
-  </paragraphs>
-  
-  <paragraphs>
-    <p><bold>5:46<mdash/>5:56 <nbsp/> Title:</bold> It's a Bird! It's a Plane! It's a Satellite! Part A</p> 
+<p>(with Dr. Justin Wight, Plymouth State University)</p>
 
-    <p><bold>Speaker:</bold> Taylor Bigos, Westfield State University</p>
+<p><emph>Octal Games of Node-Kayles</emph></p>
 
-    <p><bold>Abstract:</bold> Origami is a new and exciting research field, with intriguing applications in space 
-    and space exploration. This talk encompasses the basic mathematics of Gaussian Curvature and the application 
-    of folding rigid origami models and how a group of scientists and mathematicians are relating the mathematics 
-    to satellite construction and space exploration.
-    </p>
-  </paragraphs>
-  
-  <paragraphs>
-    <p><bold>5:58<mdash/>6:08 <nbsp/> Title:</bold> It's a Bird! It's a Plane! It's a Satellite! Part B</p> 
+<p>Can two games with different rules really be the same game? The classic game of Nim can be generalized to a broader category of "taking and breaking" games called octal games. A seemingly dissimilar game is Node-Kayles, which is a two player game based on coloring nodes of a graph. We investigate when, why, and how games of Node-Kayles can be octal games, and what it means for Node-Kayles on a graph to be an octal game.</p>
+</paragraphs>
 
-    <p><bold>Speaker:</bold> Autumn Phaneuf, Westfield State University</p>
+<paragraphs><title>Molly O'Brien</title><p> Worcester State University</p>
 
-    <p><bold>Abstract:</bold> This talk will incorporate an active learning component where members of the audience 
-    will be invited to construct origami models mentioned in the Part A talk of “It's a Bird! It's a Plane! It's a Satellite!” Examples of positive, negative, and zero curvature will be explored.
+<p><emph>The Road to College Calculus</emph></p>
 
-    </p>
-  </paragraphs>
-    
+<p>There are several approaches when it comes to studying calculus. Calculus is important because it is a necessary tool for almost all STEM careers. More and more high school students are having the option to take calculus. This paper focuses on data from several studies of students who took calculus in high school. It will give suggestions on the best approach to calculus and how to be successful.  (Advisor: Jason Hardin)</p>
+</paragraphs>
+
+<paragraphs><title>Michael Rose</title><p> Worcester State University</p>
+
+<p><emph>Bayesian and Measure Theoretic Extensions of Generative Adversarial Networks</emph></p>
+
+<p>Generative Adversarial Networks are a class of unsupervised machine learning algorithms that fit some probability model to a data generating process through a system of two neural networks contesting each other in a zero-sum game framework. This paper discusses extensions of classic GANs in the frameworks of Measure Theory and Bayesian statistical theory.  (Advisor:Jason Hardin)</p>
+</paragraphs>
+
+<paragraphs><title>Weiting Wang</title><p> Keene State College</p>
+
+<p><emph>Not All Numbers Can Be Created Equally</emph></p>
+
+<p>We take a well-known problem <mdash/> which number can or cannot be written as a sum of consecutive integers and generalize it for summations involving any arithmetic sequence. Various general and specific theorems involving these summations are proven.  (Advisor: Karen Stanish)</p>
+</paragraphs>
+
+<paragraphs><title>Nicholas Vea</title><p> Worcester State University</p>
+
+<p><emph>Random Matrix Theory and the Riemann Zeta Function</emph></p>
+
+<p>The talk will cover some introductory concepts in complex analysis in order to discuss the Riemann Zeta Function. Some properties and forms of the function will be demonstrated, so that the Riemann Hypothesis can be discussed. The primary purpose of the project is understanding the Hilbert-Polya conjecture and the possible connection between the distribution of zeros of the RZF and the Gaussian Unitary Ensemble.  (Advisor: Jason Hardin)</p>
+</paragraphs>
+
 </subsection>
 
-<subsection>
-    <title>Session IV, Engleman Hall C136</title>
-<paragraphs>
-    <p><bold>5:10<mdash/>5:20 <nbsp/> Title:</bold> </p> 
+<subsection><title>Session IV, ACC 101</title>
 
-    <p><bold>Speaker:</bold> y</p>
+<paragraphs><title>David Diaz</title><p> Southern Connecticut State University</p>
 
-    <p><bold>Abstract:</bold> 
-    </p>
-  </paragraphs>
-  
-  <paragraphs>
-    <p><bold>5:22<mdash/>5:32 <nbsp/> Title:</bold> </p> 
+<p><emph>Pseudo-random Walks on Semi-Regular and Irregular Planar Graphs</emph></p>
 
-    <p><bold>Speaker:</bold> y</p>
+<p>We examine pseudo-random walks on the edge graphs of regular, semi-regular, and irregular tessellations generated by the sequence of digits of transcendental numbers written in an appropriate base.  (Advisor: Aaron Clark)</p>
+</paragraphs>
 
-    <p><bold>Abstract:</bold> 
-    </p>
-  </paragraphs>
-  <paragraphs>
-    <p><bold>5:34<mdash/>5:44 <nbsp/> Title:</bold> </p> 
 
-    <p><bold>Speaker:</bold> y</p>
+<paragraphs><title>Lauren Hartmann</title><p> Westfield State University</p>
 
-    <p><bold>Abstract:</bold> 
-    </p>
-  </paragraphs>
-  
-  <paragraphs>
-    <p><bold>5:46<mdash/>5:56 <nbsp/> Title:</bold> </p> 
+<p>(with Emily Barranca, Swarthmore College <ampersand /> Clara Buck, Carleton College)</p>
 
-    <p><bold>Speaker:</bold> y</p>
+<p><emph>Special Sets of Vertices in Paley Graphs</emph></p>
 
-    <p><bold>Abstract:</bold> 
-    </p>
-  </paragraphs>
-  
-  <paragraphs>
-    <p><bold>5:58<mdash/>6:08 <nbsp/> Title:</bold> </p> 
+<p>Strongly regular graphs have three distinct eigenvalues that give bounds on the average degree of an induced subgraph. Tight sets are sets of vertices that induce a subgraph with as many or as few edges as possible relative to the parameters and eigenvalues of the graph. A particular family of examples of strongly regular graphs is the Paley Graph <m>P(q)</m>, which has the finite field of size <m>q \equiv 1 \pmod{4}</m>  as its vertex set, where two vertices are adjacent when their difference is a nonzero perfect square in the considered field.</p>
 
-    <p><bold>Speaker:</bold> y</p>
+<p>Motivated by a 1984 result by Blockhuis, we consider the connection between Paley graphs <m>P(q^2)</m> and finite affine planes. In this model, each line of the affine plane represents either a clique or an independent set in the graph. Selecting only those lines which correspond to cliques, we construct a partial affine plane in which two vertices are adjacent in the graph if and only if they are on the same line in the affine plane. This allows us to examine tight sets of <m>P(q^2)</m> in a geometric context. We work towards classifying the tight sets which are not the disjoint union of smaller tight sets.  (Advisor: Morgan Rodgers, California State University, Fresno CA)</p>
+</paragraphs>
 
-    <p><bold>Abstract:</bold> 
-    </p>
-  </paragraphs>
-    
-</subsection>
-<subsection>
-    <title>Session V, Engleman Hall C140</title>
-<paragraphs>
-    <p><bold>5:10<mdash/>5:20 <nbsp/> Title:</bold> </p> 
 
-    <p><bold>Speaker:</bold> y</p>
 
-    <p><bold>Abstract:</bold> 
-    </p>
-  </paragraphs>
-  
-  <paragraphs>
-    <p><bold>5:22<mdash/>5:32 <nbsp/> Title:</bold> </p> 
+<paragraphs><title>Nicolas Cannavo Berrazueta</title><p> Stonehill College</p>
 
-    <p><bold>Speaker:</bold> y</p>
+<p>(with Jaisil Chacko, Stonehill College)</p>
 
-    <p><bold>Abstract:</bold> 
-    </p>
-  </paragraphs>
-  <paragraphs>
-    <p><bold>5:34<mdash/>5:44 <nbsp/> Title:</bold> </p> 
+<p><emph>How Ice Melts: Exploring Molecular Level Dynamics</emph></p>
 
-    <p><bold>Speaker:</bold> y</p>
+<p>Water is the only natural substance that exists in three fundamental states – solid, liquid, and gas at the normal range of temperatures found near the surface of earth. Enormous researches on water have been conducted. However, there is still a lot more to be understood at the nanoscale (molecular scale) level.</p>
 
-    <p><bold>Abstract:</bold> 
-    </p>
-  </paragraphs>
-  
-  <paragraphs>
-    <p><bold>5:46<mdash/>5:56 <nbsp/> Title:</bold> </p> 
+<p>We present our study on the dynamics of water molecules in the process of water’s state change from ice (solid) to liquid water using a popular computer simulation method called Molecular Dynamics (MD) simulation.  In this talk, we will introduce the mathematics behind the MD simulation and discuss some of the key analysis result from our work.  (Advisor: Jane Lee)</p>
+</paragraphs>
 
-    <p><bold>Speaker:</bold> y</p>
 
-    <p><bold>Abstract:</bold> 
-    </p>
-  </paragraphs>
-  
-  <paragraphs>
-    <p><bold>5:58<mdash/>6:08 <nbsp/> Title:</bold> </p> 
+<paragraphs><title>Samantha Mauro</title><p> Stonehill College</p>
 
-    <p><bold>Speaker:</bold> y</p>
+<p>(with Sydney Martin, Stonehill College)</p>
 
-    <p><bold>Abstract:</bold> 
-    </p>
-  </paragraphs>
-    
+<p><emph>Minimal Tile and Bond-Edge Types for Self-Assembling DNA Graphs of Triangular Tiles</emph></p>
+
+<p>We examine self-assembling DNA from a graph theory perspective based on the tile model. These tiles represent junction branched molecules whose arms are double strands of DNA. We consider a family of graphs obtained by a string of connected triangles. Given a target graph G, a pot of tiles is designed in order to achieve G in three different scenarios corresponding to distinct levels of laboratory constraints. In the first scenario, graphs of a smaller size than G are allowed. In the second scenario, nonisomorphic graphs of the same size as G are allowed, but not graphs of smaller size. In the third scenario, only graphs isomorphic or larger in size to the target graph are allowed. We find the minimum number of tile types and bond-edge types for each of the three scenarios.  (Advisors: Leyda Almodovar Velazquez <ampersand /> Heiko Todt)</p>
+</paragraphs>
+
+<paragraphs><title>Julianne McKay</title><p> Gordon College</p>
+
+<p><emph>Broadening the Field: Charlotte Angas Scott and Women’s Mathematical Education</emph></p>
+
+<p>Charlotte Angas Scott (1858-1931) was a British algebraic geometer who spent her career at Bryn Mawr College in Pennsylvania. She was one of the first women to receive a PhD in mathematics, and she utilized her influence to create opportunities for the women who came after her. This paper studies Scott’s role in women’s higher education in mathematics through her programs at Bryn Mawr, as well as her role in developing the American mathematical community as a whole.  (Advisor: Karl-Dieter Crisman)</p>
+</paragraphs>
+
+
+<paragraphs><title>Stephen Donkor</title><p> Worcester State University</p>
+
+<p><emph>Prime Numbers and Irreducible Polynomials</emph></p>
+
+<p>In the study of prime numbers and polynomials it is important to determine which polynomials are irreducible and how such polynomials are related or similar to prime numbers and prime factorization. In this presentation we would be looking at the Fundamental Theorem of Algebra, The Divisibility, Remainder Theorem,Greatest Common divisor,Euclid's Algorithm, Irreducible polynomials and some Tests for Irreducible polynomials etc.  (Advisor: Jason Hardin)</p>
+</paragraphs>
+
 </subsection>
 </section>

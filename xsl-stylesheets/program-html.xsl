@@ -5,7 +5,7 @@
 <xsl:import href="../xsl/mathbook-html.xsl" />
 
 
-<xsl:param name="toc.level" select="'1'" />
+<xsl:param name="toc.level" select="'2'" />
 <xsl:param name="html.css.extra"> extra.css </xsl:param>
 <xsl:param name="html.knowl.example.inline">no</xsl:param>
 <xsl:param name="html.knowl.exercise.inline">no</xsl:param>
