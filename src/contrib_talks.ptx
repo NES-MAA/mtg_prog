@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<section>
+  <title>Contributed Talks <mdash/> Saturday, 2:00 to 3:00pm</title>
+
+  <subsection>
+    <title>Session I, Engleman Hall C113 </title>
+
+  <paragraphs>
+<title>Reliability of ACCUPLACER score in predicting success in Quantitative Reasoning Course</title>
+
+<p>
+Santhosh Mathew	<nbsp/> (santhosh.mathew@regiscollege.edu) <nbsp/> <mdash/> Regis College
+</p>
+
+<p>
+	(with Upasana Kashyap, Regis College)
+</p>
+
+<p>Abstract: The purpose of this study was to determine the correlation between the ACCUPLACER placement test score (elementary algebra) and the student success in the quantitative reasoning course at Regis College. Our study point to a weak correlation between the ACCUPLACER placement score and the student success in the quantitative reasoning course. We propose that an in-house placement system based on the unique requirements of the institution will be a much more pragmatic approach to place the students at appropriate levels of instruction.
+</p>
+
+</paragraphs>
+
+<paragraphs>
+	<title> Axis-Parallel Empty Boxes Among Points in a Square </title>
+<p>	
+Soohyun Ahn <nbsp/> (soohyunahn000905@gmail.com) <nbsp/> <mdash/> Concord, MA
+</p>
+
+<p> 
+	(with Young Joon Kim, New York, NY, <nbsp/><nbsp/> Seo Yeong Kwag, Blairstown, NJ, <nbsp/> and <nbsp/>David Park, Hightstown, NJ) 
+</p>
+<p>
+Given <m>S</m>, a set of <m>n</m> points contained in the unit square <m>Q=[0,1]^2</m>, let 
+<m>f(S)</m> denote the area of the largest axis-parallel
+rectangle that does not contain any of the points of <m>S</m> in its interior. Further, let <m>f(n)</m> be the minimum value of <m>f(S)</m> over all sets
+<m>S</m> of <m>n</m> points in <m>Q</m>. In 2009, Dumitrescu and Jiang proved that <m>f(2)=(3-\sqrt{5})/2</m>, <m>f(4)=1/4</m>, and the following general bounds for <m>f(n)</m>:
+<md><mrow>\left(1.25-o(1)\right)\cdot \frac{1}{n}\le f(n)\le 4\cdot \frac{1}{n}.</mrow></md>
+</p>
+<p>
+We show that <m>f(3)=0.3079\ldots</m> , <m>0.2192 \lt f(5) \lt 0.2215</m>, <m>0.1835</m>
+</p>
+</paragraphs>
+
+<paragraphs>
+	<title>How to Create Choreography Using Knot Theory</title>
+
+<p>
+Mehdi Khorami <nbsp/>(khoramim@easternct.edu) <nbsp/> <mdash/> <nbsp/> ECSU </p>
+
+<p> (with Marie Percy, University of Connecticut, Department of Dramatic Arts)</p>
+<p> Knot Theory is branch of Topology that studies mathematical knots. Space Harmony is a vast philosophical, creative, and metaphysical view on the nature of human physical reality. It is studied by  artist who are interested in creating movements that have a feeling of balance and harmony. In this talk, we explore the relationship between these two seemingly unrelated fields and demonstrate some of the contributions that they make to one another. Specifically, we demonstrate how knot embeddings in Platonic solids can lead to interesting choreography.
+</p>
+
+</paragraphs>
+
+<paragraphs>
+	<title>Series Convergence and Prerequisite Knowledge</title>
+
+<p>David Earls <nbsp/>(d.earls@snhu.edu) <nbsp/> <mdash/> <nbsp/> Southern New Hampshire University</p>
+
+<p> (with Eyob Demeke, California State University, LA) </p>
+<p>In this report, we seek to find out more about student understanding of series convergence in
+second semester calculus courses. The research in this area is thin, and we hope to contribute to
+the existing literature by examining student errors and what these errors tell us about students’
+prerequisite knowledge. This report finds that students have difficulty with algebraic
+simplification of rational functions, limit notation, checking that hypotheses of theorems are
+satisfied, and what the conclusion of theorems tell them.</p>
+</paragraphs>
+
+</subsection>
+</section>

@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<section>
+  <title>Undergraduate Student Talks <mdash/> Friday, 5:00 to 6:30pm</title>
+
+  <subsection>
+    <title>Session I, Engleman Hall C113 </title>
+
+  <paragraphs>
+
+    <p><bold>5:10<mdash/>5:20 <nbsp/> Title:</bold> Tossing a Coin over the Telephone</p>
+
+    <p><bold>Speaker:</bold> Andy Penfield, Keene State College</p>
+
+    <p><bold>Abstract:</bold> There are many examples of social situations where flipping a coin is used as a 
+    method to determine randomly a choice between two options. However if two people talking on the telephone 
+    need to make that decision then flipping a physical coin won’t work because both people will not be able 
+    to witness the toss. A method for making a decision between two choices without the physical presence of 
+    both will be presented along with a mathematical justification for why it works. </p>
+  </paragraphs>
+
+  <paragraphs>
+    <p><bold>5:22<mdash/>5:32 <nbsp/> Title:</bold> The Kolakoski Sequence</p>
+
+    <p><bold>Speaker:</bold> Kegan Landfair, Keene State College</p>
+
+    <p><bold>Abstract:</bold> The Kolakoski sequence is an infinite, self-determined sequence of 1's and 2's. 
+    The sequence does not repeat and contains at most 2 consecutive identical terms. There are many open 
+    questions involving the Kolakoski sequence including the question as to whether or not the sequence, in 
+    the long run, has a one to one ratio of 1's to 2's. Geometric ways of representing the sequence will be 
+    discussed.</p>
+  </paragraphs>
+  
+  <paragraphs>
+    <p><bold>5:34<mdash/>5:44 <nbsp/> Title:</bold> Fourier Coefficients of Squigonometric Functions</p> 
+
+    <p><bold>Speaker:</bold> Rye Howard-Stone, Southern Connecticut State University</p>
+
+    <p><bold>Abstract:</bold> The cosine and sine functions keep track of the x and y components of a point in motion at uniform speed 
+around the Unit Circle. If we replace the Unit Circle with the Unit Squircle  we get analogous functions 
+called 'cosquine' and 'squine.' Several authors have studied these functions. The derivatives, and thus 
+the Taylor Series, are readily computable. We decided to explore them via Fourier Analysis. The analytic 
+approach was intractable, so we used numerical integration.
+    </p>
+  </paragraphs>
+  
+  <paragraphs>
+    <p><bold>5:46<mdash/>5:56 <nbsp/> Title:</bold> Soddyian Triangles</p> 
+
+    <p><bold>Speaker:</bold> Jeff Garand, Keene State College</p>
+
+    <p><bold>Abstract:</bold> Three circles are configured so that each pair has exactly one point in common.
+From this two more circles can be constructed, tangent to the given three, which we call the inner and outer Soddy circles. A Soddyian triangle is defined as a triangle whose outer Soddy circle degenerates into a straight line. This talk will examine properties of these triangles.
+
+    </p>
+  </paragraphs>
+  
+  <paragraphs>
+    <p><bold>5:58<mdash/>6:08 <nbsp/> Title:</bold> Arbelos and Their Generalizations</p> 
+
+    <p><bold>Speaker:</bold> Derek Blunt, Keene State College</p>
+
+    <p><bold>Abstract:</bold> An arbelos is a planar region bounded by three mutually tangent semicircles whose 
+    diameters all lay on the same line. Many interesting properties of this shape were discovered by Archimedes 
+    over 2000 years ago. This talk will explore the properties of the arbelos and then generalize to figures 
+    bounded by similar curves such as parabolas.
+    </p>
+  </paragraphs>
+</subsection>
+
+<subsection>
+    <title>Session II, Engleman Hall C115</title>
+<paragraphs>
+    <p><bold>5:10<mdash/>5:20 <nbsp/> Title:</bold> Symbolic Computations Course at WestConn: A Mathematical Tour with Computer Assistance </p> 
+
+    <p><bold>Speaker:</bold> Leah Lalama, Western Connecticut State University</p>
+
+    <p><bold>Abstract:</bold> The current version of this new interdisciplinary course is designed as a review of basic 
+    concepts, selected facts, and techniques from three mathematical fields: number theory, probability and statistics, 
+    and calculus. The main distinguished feature of the course is an intensive hands-on use of a computer algebra system 
+    (currently Maple) for creating visual displays and animations, performing tedious simulations, and problem solving. 
+    We will present examples of the course materials and comment on possible alterations of the course and the ongoing 
+    textbook project.
+
+    </p>
+  </paragraphs>
+  
+  <paragraphs>
+    <p><bold>5:22<mdash/>5:32 <nbsp/> Title:</bold> When Mathematics Meets Physics: Kepler’s problem.</p> 
+
+    <p><bold>Speaker:</bold> Joshua Torres, Western Connecticut State University</p>
+
+    <p><bold>Abstract:</bold> In 1609 Kepler presented his three famous laws of motion for a planet traveling around 
+    the sun. Later Newton verified Kepler’s laws using his famous inverse square law of gravity. I will describe the 
+    problem formulation and rich set of mathematical tools used for its analysis. Verification of the second Kepler’s 
+    law and relevant visual displays will be also presented. The project is part of the course work in a new course 
+    Symbolic Computation at Western Connecticut State University. 
+    </p>
+  </paragraphs>
+  <paragraphs>
+    <p><bold>5:34<mdash/>5:44 <nbsp/> Title:</bold> What are the true effects of smoking?</p> 
+
+    <p><bold>Speaker:</bold> Kasandra Kelley, Eastern Connecticut State University</p>
+
+    <p><bold>Abstract:</bold> In the past few years’ people have been trying to cut down on smoking habits for health 
+    reasons. It seems to be one of the hardest habits to break for people. So what causes people to smoke so much? 
+    In this study we are trying to figure out the relationship between smoking habits, gender and race. We are also 
+    curious to see if the hours someone works a week affects how much someone has smoked.
+    </p>
+  </paragraphs>
+  
+  <paragraphs>
+    <p><bold>5:46<mdash/>5:56 <nbsp/> Title:</bold> Drink a Little or Drink a Lot</p> 
+
+    <p><bold>Speaker:</bold> Lisa Ferrari, Eastern Connecticut State University</p>
+
+    <p><bold>Abstract:</bold> Alcohol is traditionally viewed as a norm of American society. However, there is a gap 
+    in research regarding the effects of location and gender based on alcohol consumption for different periods of 
+    time. For example, is alcohol consumption related to living in rural or urban communities? Are men more likely 
+    to drink than woman?
+    </p>
+  </paragraphs>
+  
+  <paragraphs>
+    <p><bold>5:58<mdash/>6:08 <nbsp/> Title:</bold> High School Graduate Goals</p> 
+
+    <p><bold>Speaker:</bold> Nicole Vigorita, Eastern Connecticut State University</p>
+
+    <p><bold>Abstract:</bold> This is a statistical analysis studying the relationships between attendance at 
+    technical/vocational schools, two-year colleges, four-year colleges, and joining the armed forces. 
+    Specifically, attending a technical/vocational school and graduating from a two year college, serving in 
+    the armed forces and graduating from a four year college, and if it is more common to attend a two-year or 
+    four-year college are discussed.
+    </p>
+  </paragraphs>
+    
+</subsection>
+
+<subsection>
+    <title>Session III, Engleman Hall C132</title>
+<paragraphs>
+    <p><bold>5:10<mdash/>5:20 <nbsp/> Title:</bold> A Generalization of Higher Dimension Fibonacci Matrices and Their Graphs</p> 
+
+    <p><bold>Speaker:</bold> Zachery Lancto, Westfield State University</p>
+
+    <p><bold>Abstract:</bold> The <m>2 \times 2</m> Fibonacci matrix is well-studied in mathematics. The concept of the 
+    Fibonacci matrix and its associated graph can easily be extended to higher dimensions using concepts and techniques 
+    from linear algebra, graph theory, and discrete mathematics. We define  <m>n \times n</m> Virahanka matrices as the 
+    generalization of the Fibonacci matrix. A Virahanka matrix has the property that, when raised to integer powers, all 
+    its entries are Fibonacci numbers. We examine <m>n \times n</m> Virahanka matrices where and discuss their underlying 
+    graphs and recurrence relationships.
+    </p>
+  </paragraphs>
+  
+  <paragraphs>
+    <p><bold>5:22<mdash/>5:32 <nbsp/> Title:</bold> Musical Exploratory Data Analysis</p> 
+
+    <p><bold>Speaker:</bold> Rachael Fountain, Westfield State University</p>
+
+    <p><bold>Abstract:</bold> Music is so much more than just the notes, pitches, and beats we hear. In fact there are 
+    surprising connections between music and mathematics that can be uncovered through exploratory data analysis. In 
+    this presentation we will discuss how we used EDA to create two visual graphics which we call will variability 
+    graphs and contour graphs. These graphics will then be used in combination with statistics and real analysis to 
+    investigate the relationship between musical melodies and mathematics.
+    </p>
+  </paragraphs>
+  
+  <paragraphs>
+    <p><bold>5:34<mdash/>5:44 <nbsp/> Title:</bold> Minimal Forcing Set Algorithm: A Study of Origami</p> 
+
+    <p><bold>Speaker:</bold> Tianna Procon, Western New England University</p>
+
+    <p><bold>Abstract:</bold> This presentation explores single-vertex folds of varying degrees and their 
+    respective minimal forcing sets as follows: each crease is assigned to be either a mountain or a valley 
+    fold. Then, a minimal forcing set is the fewest number of creases needed to force the mountain-valley 
+    assignment of the remaining creases. Doing this research we hope to form an algorithm allowing one to 
+    find the minimal forcing set of creases for any single-vertex fold without needing to exhaust all 
+    possibilities.
+    </p>
+  </paragraphs>
+  
+  <paragraphs>
+    <p><bold>5:46<mdash/>5:56 <nbsp/> Title:</bold> It's a Bird! It's a Plane! It's a Satellite! Part A</p> 
+
+    <p><bold>Speaker:</bold> Taylor Bigos, Westfield State University</p>
+
+    <p><bold>Abstract:</bold> Origami is a new and exciting research field, with intriguing applications in space 
+    and space exploration. This talk encompasses the basic mathematics of Gaussian Curvature and the application 
+    of folding rigid origami models and how a group of scientists and mathematicians are relating the mathematics 
+    to satellite construction and space exploration.
+    </p>
+  </paragraphs>
+  
+  <paragraphs>
+    <p><bold>5:58<mdash/>6:08 <nbsp/> Title:</bold> It's a Bird! It's a Plane! It's a Satellite! Part B</p> 
+
+    <p><bold>Speaker:</bold> Autumn Phaneuf, Westfield State University</p>
+
+    <p><bold>Abstract:</bold> This talk will incorporate an active learning component where members of the audience 
+    will be invited to construct origami models mentioned in the Part A talk of “It's a Bird! It's a Plane! It's a Satellite!” Examples of positive, negative, and zero curvature will be explored.
+
+    </p>
+  </paragraphs>
+    
+</subsection>
+
+<subsection>
+    <title>Session IV, Engleman Hall C136</title>
+<paragraphs>
+    <p><bold>5:10<mdash/>5:20 <nbsp/> Title:</bold> </p> 
+
+    <p><bold>Speaker:</bold> y</p>
+
+    <p><bold>Abstract:</bold> 
+    </p>
+  </paragraphs>
+  
+  <paragraphs>
+    <p><bold>5:22<mdash/>5:32 <nbsp/> Title:</bold> </p> 
+
+    <p><bold>Speaker:</bold> y</p>
+
+    <p><bold>Abstract:</bold> 
+    </p>
+  </paragraphs>
+  <paragraphs>
+    <p><bold>5:34<mdash/>5:44 <nbsp/> Title:</bold> </p> 
+
+    <p><bold>Speaker:</bold> y</p>
+
+    <p><bold>Abstract:</bold> 
+    </p>
+  </paragraphs>
+  
+  <paragraphs>
+    <p><bold>5:46<mdash/>5:56 <nbsp/> Title:</bold> </p> 
+
+    <p><bold>Speaker:</bold> y</p>
+
+    <p><bold>Abstract:</bold> 
+    </p>
+  </paragraphs>
+  
+  <paragraphs>
+    <p><bold>5:58<mdash/>6:08 <nbsp/> Title:</bold> </p> 
+
+    <p><bold>Speaker:</bold> y</p>
+
+    <p><bold>Abstract:</bold> 
+    </p>
+  </paragraphs>
+    
+</subsection>
+<subsection>
+    <title>Session V, Engleman Hall C140</title>
+<paragraphs>
+    <p><bold>5:10<mdash/>5:20 <nbsp/> Title:</bold> </p> 
+
+    <p><bold>Speaker:</bold> y</p>
+
+    <p><bold>Abstract:</bold> 
+    </p>
+  </paragraphs>
+  
+  <paragraphs>
+    <p><bold>5:22<mdash/>5:32 <nbsp/> Title:</bold> </p> 
+
+    <p><bold>Speaker:</bold> y</p>
+
+    <p><bold>Abstract:</bold> 
+    </p>
+  </paragraphs>
+  <paragraphs>
+    <p><bold>5:34<mdash/>5:44 <nbsp/> Title:</bold> </p> 
+
+    <p><bold>Speaker:</bold> y</p>
+
+    <p><bold>Abstract:</bold> 
+    </p>
+  </paragraphs>
+  
+  <paragraphs>
+    <p><bold>5:46<mdash/>5:56 <nbsp/> Title:</bold> </p> 
+
+    <p><bold>Speaker:</bold> y</p>
+
+    <p><bold>Abstract:</bold> 
+    </p>
+  </paragraphs>
+  
+  <paragraphs>
+    <p><bold>5:58<mdash/>6:08 <nbsp/> Title:</bold> </p> 
+
+    <p><bold>Speaker:</bold> y</p>
+
+    <p><bold>Abstract:</bold> 
+    </p>
+  </paragraphs>
+    
+</subsection>
+</section>
