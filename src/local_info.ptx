@@ -4,15 +4,17 @@
   <title>Local Information</title>
 
 <p>
-<bold>WiFi:</bold> How to login to wireless.
+<bold>WiFi:</bold> Attendees should use the SNHU-S network, select guest user, and then use password: Hillsborohall20 
 </p>
 
 <p>
-<bold>Campus Police:</bold> Call xxx-xxxx for any safety or security issues.
+<bold>Public Safety:</bold> Call 603.645.9700 for any safety or security issues.
 </p>
 
-<p>
-<image src="../images/Campus-Map.pdf"/>
-</p>
 
+<sidebyside>
+<image source="images/Campus-Map.svg">
+<description> A map of the SNHU campus</description>
+</image>
+</sidebyside>
 </section>

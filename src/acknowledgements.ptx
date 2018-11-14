@@ -24,10 +24,34 @@
 	<ul>
 		<li>Adam Gilbert, Southern New Hamshire University</li>
 		<li>Megan Sawyer, Southern New Hamshire University</li>
-		<li>Teresa Magnus, Rivier University</li>
+		<li>Christine Caples, Southern New Hamshire University</li>
+		<li>Christina Starkey, Southern New Hamshire University</li>
+		<li>Kathy Willis, Southern New Hamshire University</li>
 	</ul>
 </p>
 
+<p>
+Much appreciation is due to the following for their sponsorship:
+</p>
 
+<sbsgroup>
+<sidebyside width="35%" valign="top">
+	<image source="images/SNHU_logo_high_quality.png">
+		<description>SNHU</description>
+	</image>
+	<image source="images/open_intro.png">
+		<description>Open Intro</description>
+	</image>
+</sidebyside>
+
+<sidebyside width="35%" valign="bottom">
+	<image source="images/pearson.png">
+		<description>Pearson</description>
+	</image>
+	<image source="images/mathworks.jpg">
+		<description>MathWorks</description>
+	</image>
+</sidebyside>
+</sbsgroup>
 
 </section>

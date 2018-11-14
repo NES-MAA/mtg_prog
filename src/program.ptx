@@ -15,6 +15,7 @@
 \renewcommand{\gcd}[2]{\text{gcd} (#1, #2)}
 \newcommand{\Naturals}{{\mathbb N}}
 \newcommand{\Integers}{{\mathbb Z}}
+\newcommand{\Z}{{\mathbb Z}}
 \newcommand{\Znoneg}{{\mathbb Z}^{\text{noneg}}}
 \newcommand{\Zplus}{{\mathbb N}}
 \newcommand{\Enoneg}{{\mathbb E}^{\text{noneg}}}
@@ -76,6 +77,5 @@ We hope you enjoy the meeting!
 <xi:include href="./contrib_talks.ptx" />
 <xi:include href="./local_info.ptx" />
 <xi:include href="./acknowledgements.ptx" />
-
 </article>
 </mathbook>

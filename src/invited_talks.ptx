@@ -4,31 +4,38 @@
   <title>Invited Presentations</title>
 
   <paragraphs>
+    <title>Henry Segerman</title><p> Oklahoma State University</p>
+    <p>Artistic mathematics: truth and beauty.</p>
+    <p>(2018 Christie Lecture: Friday November 16, 2018, 8:00 PM)</p>
 
-    <p><bold>Title:</bold> Artistic mathematics: truth and beauty.</p>
+    <p>I'll talk about my work in mathematical visualization: making accurate, effective, and beautiful pictures, models, and experiences of mathematical concepts. I'll discuss what it is that makes a visualization compelling, and show many examples in the medium of 3D printing, as well as some explorations in virtual reality and spherical video.</p>
 
-    <p><bold>Speaker:</bold> Henry Segerman, Oklahoma State University</p>
-
-    <p><bold>Abstract:</bold> I'll talk about my work in mathematical visualization: making accurate, effective, and beautiful pictures, models, and experiences of mathematical concepts. I'll discuss what it is that makes a visualization compelling, and show many examples in the medium of 3D printing, as well as some explorations in virtual reality and spherical video.</p>
-
-    <p><bold>Bio:</bold> Henry Segerman is an Associate Professor of Mathematics at Oklahoma State University.  He received his masters in mathematics from the University of Oxford in 2001, and his Ph.D. in mathematics from Stanford University in 2007. After post-doctoral positions at the University of Texas at Austin and the University of Melbourne, he joined the faculty at Oklahoma State University in 2013. His research interests are in three-dimensional geometry and topology, working mostly on triangulations of three-manifolds, and in mathematical art and visualization. In visualization, he works mostly in the medium of 3D printing, with other interests in spherical video, virtual, and augmented reality. He is the author of "Visualizing Mathematics with 3D Printing”, a popular mathematics book published by Johns Hopkins University Press in July 2016.</p>
-
-  </paragraphs>
-
-  <paragraphs>
-
-    <p><bold>Title:</bold> A Fake Title for a Math Talk.</p>
-
-    <p><bold>Speaker:</bold> Ima Dumi, University of Northwestern Rhode Island</p>
-
-    <p><bold>Abstract:</bold> blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah
-    blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah
-    blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah
-    blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah
-    blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah.
-     </p>
-
-    <p><bold>Bio:</bold> Ima Dumi is an Professor of Mathematics at UNRI.  She has very few publications as a result of being fictional.</p>
+    <p><strong>Bio:</strong> Henry Segerman is an Associate Professor of Mathematics at Oklahoma State University.  He received his masters in mathematics from the University of Oxford in 2001, and his Ph.D. in mathematics from Stanford University in 2007. After post-doctoral positions at the University of Texas at Austin and the University of Melbourne, he joined the faculty at Oklahoma State University in 2013. His research interests are in three-dimensional geometry and topology, working mostly on triangulations of three-manifolds, and in mathematical art and visualization. In visualization, he works mostly in the medium of 3D printing, with other interests in spherical video, virtual, and augmented reality. He is the author of "Visualizing Mathematics with 3D Printing”, a popular mathematics book published by Johns Hopkins University Press in July 2016.</p>
 
   </paragraphs>
+
+<paragraphs>
+  <title>Mihai Stoiciu</title><p> Williams College</p>
+
+<p>Linear Algebra Meets Probability and Statistics: A Short Introduction to Random Matrix Theory</p>
+<p>(Distinguished Teacher Lecture: Saturday November 17, 2018, 9:00 AM)</p>
+
+<p>The study of random matrices is an active and exciting area of mathematics and has numerous applications to theoretical physics, number theory, optimal control, and finance. Random Matrix Theory provides understanding of various properties (most notably, statistics of eigenvalues) of matrices with random coefficients. We will discuss some of the topics and ideas from Linear Algebra, Probability and Statistics, and Numerical Analysis that are of central importance in Random Matrix Theory. We will also mention a few of the most important theorems in this area of mathematics and present a couple of new results obtained in joint work with undergraduate students.</p>
+
+<p><strong>Bio:</strong> Mihai Stoiciu received his undergraduate degree in Mathematics at the University of Bucharest, he then moved to the U.S. in order to pursue a Ph.D. in Mathematics at Caltech.  In 2005, after finishing his Ph.D., he started working at Williams College, where he is now a Professor of Mathematics.  Stoiciu's research is in Mathematical Physics and Functional Analysis, his current interests are in spectral theory and random matrices.</p>
+</paragraphs>
+
+<paragraphs>
+<title>Jeff Dinitz</title><p>University of Vermont</p>
+
+<p>Thinking Deeply about Putting Numbers in Boxes:
+Sudoku, Latin Squares, Room squares and designing tournaments</p>
+<p>(Invited Address: Saturday, November 17, 2018, 1:00 PM)</p>
+
+<p>A well-known mathematician and educator, Arnold Ross, had a favorite saying about doing mathematics: <quote>Think deeply about simple things.</quote>  My area of mathematics is called combinatorial design theory, and in my sub-specialty I often find myself trying to construct arrays of numbers which satisfy certain properties (I tell people that my job is <quote>putting numbers in boxes</quote>).  An example of such an array would be a Sudoku square.  Here, one property is that each row and each column contain each of the symbols 1 through 9 exactly once. In this talk, I will discuss some of the combinatorial objects that I have studied through the years.  I will try to convey some of the deep questions that are asked about these objects and will also give some offbeat applications of them to music, art, and the scheduling of league tournaments.</p>
+
+<p>
+<strong>Bio:</strong>  Jeff Dinitz received his Ph.D. in mathematics from The Ohio State University in 1980 and has been on the faculty of the Department of Mathematics and Statistics at the University of Vermont since 1980. He was the chair of that department from 1998 <mdash/> 2004 as well as the Interim Chair of the Department of Computer Science from 2010 <mdash/> 2012. His research is in the area of combinatorial design theory where he has published roughly 100 research articles. He is also the co-editor-in-chief of the CRC Handbook of Combinatorial Designs and of the Journal of Combinatorial Designs. He loves living in Vermont where he enjoys outdoor activities such as sailing, bicycling and skiing.</p>
+</paragraphs>
+
 </section>

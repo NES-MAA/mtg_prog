@@ -5,5 +5,5 @@
 <xsl:import href="../xsl/mathbook-latex.xsl" />
 
 <xsl:param name="latex.geometry">letterpaper,total={6.5in,9in}</xsl:param>
-
+<xsl:param name="latex.font.size" select="'12pt'" />
 </xsl:stylesheet>
