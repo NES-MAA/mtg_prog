@@ -6,6 +6,9 @@
   <subsection>
     <title>Session I, ACC 105A </title>
 
+<p>
+<dl>
+<li><title>2:00</title>
   <paragraphs>
 <title>Reliability of ACCUPLACER score in predicting success in Quantitative Reasoning Course</title><p></p>
 
@@ -19,32 +22,21 @@ Santhosh Mathew	<nbsp/> <nbsp/> <mdash/> <nbsp/>  Regis College
 </p>
 
 </paragraphs>
+</li>
 
+<li><title>2:20</title>
 <paragraphs>
-	<title> Axis-Parallel Empty Boxes Among Points in a Square </title><p></p>
-<p>	
-Soohyun Ahn <nbsp/>  <mdash/> <nbsp/>Concord, MA
-</p>
+	<title>They Are Who They Think They Are: A Comparison of Student Perception in Introductory College Math Courses</title><p></p>
 
-<p> 
-	(with Young Joon Kim, New York, NY, <nbsp/><nbsp/> Seo Yeong Kwag, Blairstown, NJ, <nbsp/> and <nbsp/>David Park, Hightstown, NJ) 
-</p>
-<p>
-Given <m>S</m>, a set of <m>n</m> points contained in the unit square <m>Q=[0,1]^2</m>, let 
-<m>f(S)</m> denote the area of the largest axis-parallel
-rectangle that does not contain any of the points of <m>S</m> in its interior. Further, let <m>f(n)</m> be the minimum value of <m>f(S)</m> over all sets
-<m>S</m> of <m>n</m> points in <m>Q</m>. In 2009, Dumitrescu and Jiang proved that <m>f(2)=(3-\sqrt{5})/2</m>, <m>f(4)=1/4</m>, and the following general bounds for <m>f(n)</m>:
+<p>Sean Bailey <nbsp/> <mdash/> <nbsp/> University of Southern Maine</p>
 
-<md><mrow>\left(1.25-o(1)\right)\cdot \frac{1}{n}\le f(n)\le 4\cdot \frac{1}{n}.</mrow></md>
-</p>
-<p>
-We show that <m>f(3)=0.3079\ldots</m> , <m>0.2192 \lt f(5) \lt 0.2215</m>, <m>0.1835 \lt f(6) \lt 0.1962</m>, and we improve the bounds in the general case:
+<p>(with Garry Wickerd  <nbsp/> <mdash/> <nbsp/>  University of Southern Maine)</p>
 
-<md><mrow>\left(1.31-o(1)\right)\cdot\frac{1}{n} \le f(n)\le 1.91\cdot \frac{1}{n}.</mrow></md>
-
-</p>
+<p>One factor impacting student performance is their perception of math. Using Attitudes Toward Mathematics Inventory, we determined student perception of math in a variety of developmental and introductory math courses. We will share the results and the implications, including a comparison between different classes.</p>
 </paragraphs>
+</li>
 
+<li><title>2:40</title>
 <paragraphs>
 	<title>How to Create Choreography Using Knot Theory</title><p></p>
 
@@ -55,14 +47,19 @@ Mehdi Khorami <nbsp/>  <mdash/> <nbsp/> ECSU </p>
 
 <p> Knot Theory is branch of Topology that studies mathematical knots. Space Harmony is a vast philosophical, creative, and metaphysical view on the nature of human physical reality. It is studied by  artist who are interested in creating movements that have a feeling of balance and harmony. In this talk, we explore the relationship between these two seemingly unrelated fields and demonstrate some of the contributions that they make to one another. Specifically, we demonstrate how knot embeddings in Platonic solids can lead to interesting choreography.
 </p>
-
 </paragraphs>
+</li>
+</dl>
+</p>
 
 </subsection>
 
 <subsection>
 	<title> Session II, ACC 105B </title>
 
+<p>
+<dl>
+<li><title>2:00</title>
 <paragraphs>
 	<title>Series Convergence and Prerequisite Knowledge</title><p></p>
 
@@ -77,7 +74,9 @@ prerequisite knowledge. This report finds that students have difficulty with alg
 simplification of rational functions, limit notation, checking that hypotheses of theorems are
 satisfied, and what the conclusion of theorems tell them.</p>
 </paragraphs>
+</li>
 
+<li><title>2:20</title>
 <paragraphs>
 	<title>Understanding the real projective plane </title><p></p>
 
@@ -85,7 +84,9 @@ satisfied, and what the conclusion of theorems tell them.</p>
 
 <p> The real projective plane (<m>{\mathbb R}P^2</m>) is a non-orientable 2-manifold that is notoriously hard to visualize and understand.  Using paper models, computer visualizations, 3d printing and lots of hand waving, I'll attempt to give you an intuitive understanding of this odd topological beast.  We'll proceed from the well-known Mobius strip, to the Klein bottle, to cross-caps and some beautiful immersions of <m>{\mathbb R}P^2</m> into 3-space: Steiner's Roman surface, and Boy's surface.</p>
 </paragraphs>
+</li>
 
+<li><title>2:40</title>
 <paragraphs>
 	<title>More Numbers in Boxes</title><p></p>
 
@@ -94,23 +95,48 @@ satisfied, and what the conclusion of theorems tell them.</p>
 <p>(with David Diaz  <nbsp/> <mdash/> <nbsp/> Southern CT State University,
 James Hammer <nbsp/> <mdash/> <nbsp/> Cedar Crest College)</p>
 
-<p>A <m>(a,b)</m>m>-Sudoku pair latin square is a latin square that is simultaneously a <m>(a,b)</m>-Sudoku latin square and a <m>(b,a)</m>-Sudoku latin square. We will provide constructions for many arbitrary classes of positive integer pairs. Specifically we can construct a <m>(3,b)</m>-Sudoku pair latin square for any positive integer <m>b</m>. Moreover, this implies that there exist factor pair latin squares of order <m>3p</m> for any prime <m>p</m>, answering a question posed by Hammer and Hoffman.</p>
+<p>A <m>(a,b)</m>-Sudoku pair latin square is a latin square that is simultaneously a <m>(a,b)</m>-Sudoku latin square and a <m>(b,a)</m>-Sudoku latin square. We will provide constructions for many arbitrary classes of positive integer pairs. Specifically we can construct a <m>(3,b)</m>-Sudoku pair latin square for any positive integer <m>b</m>. Moreover, this implies that there exist factor pair latin squares of order <m>3p</m> for any prime <m>p</m>, answering a question posed by Hammer and Hoffman.</p>
 </paragraphs>
+</li>
+</dl>
+</p>
 
 </subsection>
 
 <subsection>
-	<title> Session III, ACC 205</title> 
+<title> Session III, ACC 205</title>
+
+<p>
+<dl>
+<li><title>2:00</title>
 <paragraphs>
-	<title>They Are Who They Think They Are: A Comparison of Student Perception in Introductory College Math Courses</title><p></p>
+<title> Axis-Parallel Empty Boxes Among Points in a Square </title><p></p>
+<p>
+Soohyun Ahn <nbsp/>  <mdash/> <nbsp/>Concord, MA
+</p>
 
-<p>Sean Bailey <nbsp/> <mdash/> <nbsp/> University of Southern Maine</p>
+<p>
+(with Young Joon Kim, New York, NY, <nbsp/><nbsp/> Seo Yeong Kwag, Blairstown, NJ, <nbsp/> and <nbsp/>David Park, Hightstown, NJ)
+</p>
+<p>
+Given <m>S</m>, a set of <m>n</m> points contained in the unit square <m>Q=[0,1]^2</m>, let 
+<m>f(S)</m> denote the area of the largest axis-parallel 
+rectangle that does not contain any of the points of <m>S</m> in its interior. Further, let <m>f(n)</m> be the minimum value of <m>f(S)</m> over all sets
+<m>S</m> of <m>n</m> points in <m>Q</m>. In 2009, Dumitrescu and Jiang proved that <m>f(2)=(3-\sqrt{5})/2</m>, <m>f(4)=1/4</m>, and the following general bounds for <m>f(n)</m>:
 
-<p>(with Garry Wickerd  <nbsp/> <mdash/> <nbsp/>  University of Southern Maine)</p>
+<md><mrow>\left(1.25-o(1)\right)\cdot \frac{1}{n}\le f(n)\le 4\cdot \frac{1}{n}.</mrow></md>
+</p>
+<p>
+We show that <m>f(3)=0.3079\ldots</m> , <m>0.2192 \lt f(5) \lt 0.2215</m>, <m>0.1835 \lt f(6) \lt 0.1962</m>, and we improve the bounds in the general case:
 
-<p>One factor impacting student performance is their perception of math. Using Attitudes Toward Mathematics Inventory, we determined student perception of math in a variety of developmental and introductory math courses. We will share the results and the implications, including a comparison between different classes.</p>
+<md><mrow>\left(1.31-o(1)\right)\cdot\frac{1}{n} \le f(n)\le 1.91\cdot \frac{1}{n}.</mrow></md>
+
+</p>
 </paragraphs>
+</li>
 
+
+<li><title>2:20</title>
 <paragraphs>
 	<title>Well-dominated Graphs</title><p></p>
 
@@ -119,7 +145,9 @@ James Hammer <nbsp/> <mdash/> <nbsp/> Cedar Crest College)</p>
 <p>
 Given a graph <m>G</m>, a set <m>S\subseteq V(G)</m> is a dominating set of <m>G</m> if every vertex in <m>G</m> is either in <m>S</m> or adjacent to a vertex in <m>S</m>.  We say that <m>G</m> is well-dominated if all minimal dominating sets have the same cardinality. In 1988, Finbow, Hartnell, and Nowakowski classified all well-dominated graphs of girth at least <m>5</m>. In this talk, we discuss the relationship between the class of all well-dominated graphs and the class of all well-covered graphs. We also discuss open problems in this area.</p>
 </paragraphs>
+</li>
 
+<li><title>2:40</title>
 <paragraphs>
 	<title>Characterizations of Output Stability of Control Systems with Delays</title><p></p>
 
@@ -128,5 +156,9 @@ Given a graph <m>G</m>, a set <m>S\subseteq V(G)</m> is a dominating set of <m>G
 <p>
 Output functions play an important role in control systems. They can be used to model certain measurements required to be analyzed. Therefore, stability of outputs needs careful consideration in  control system analysis. On the other hand, systems associated with delays are sophisticated in nature, since they require infinite dimensional spaces to describe evolution. In this work we present a Lyapunov description of output stability in a general setting. We relate this result with some important applications of control system designing.</p>
 </paragraphs>
+</li>
+</dl>
+</p>
+
 </subsection>
 </section>

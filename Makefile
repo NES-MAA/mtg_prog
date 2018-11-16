@@ -13,7 +13,7 @@ pdf/program.aux: pdf/program.tex
 	cd pdf; pdflatex program
 
 pdf/program.tex: src/*.ptx 
-	cd pdf; test ! -e images && ln -s ../images images; cp ../xsl-stylesheets/program-latex.xsl ${PTX_HOME}/user/; xsltproc --xinclude ${PTX_HOME}/user/program-latex.xsl ../src/program.ptx
+	cd pdf; test ! -e images && ln -s ../images images; cp ../xsl-stylesheets/program-latex.xsl ${PTX_HOME}/user/; xsltproc --xinclude ${PTX_HOME}/user/program-latex.xsl  ../src/program.ptx
 
 
 html/program.html: src/*.ptx

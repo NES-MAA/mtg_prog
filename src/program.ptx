@@ -53,7 +53,7 @@
 
 </docinfo>
 
-<article xml:id="program">
+<article xml:id="index">
 
 <title><nbsp/><nbsp/>Meeting Program <mdash/> Fall 2018</title>
 <frontmatter>
@@ -62,9 +62,13 @@
 <personname>Northeastern Section of the MAA</personname>
 </author>
 
-<p>Welcome to the Fall 2018 meeting of the Northeastern Section of the MAA!  In this program you will find a schedule of the sessions, information about the invited speakers (and their presentations), titles and abstracts for contributed talks, and lots of other information.  
+<p>Welcome to the Fall 2018 meeting of the Northeastern Section of the MAA!  In this program you will find a schedule of the sessions, information about the invited speakers (and their presentations), titles and abstracts for contributed talks, and lots of other information.
 </p>
 
+<p>There are several activities in addition to talks which we hope you will enjoy.  There is a small display of mathematics-related artwork  in the Fireside Cafe in the Wolak Library.  While in the Wolak library, you are invited to tour SNHU's Maker Space.  Braxton Carrigan is leading a MaPP Puzzle Hunt (sort of a mathematician's scavenger hunt) on Friday afternoon.  There will also be a demonstration of how to lead a Math Circle (a very effective outreach activity for High School students and their Teachers) on Friday.  On Saturday look for another installment of the Teaching Ideas Hour hosted by Vince Ferlini.</p>
+
+<p>Finally, during the business meeting on Saturday we will be holding elections for several leadership positions in the Northeastern Section <mdash/> the names of the candidates, and brief personal statements, are included in this program.
+</p>
 <p>
 We hope you enjoy the meeting!
 </p>
@@ -75,6 +79,7 @@ We hope you enjoy the meeting!
 <xi:include href="./invited_talks.ptx" />
 <xi:include href="./ug_talks.ptx" />
 <xi:include href="./contrib_talks.ptx" />
+<xi:include href="./candidates.ptx" />
 <xi:include href="./local_info.ptx" />
 <xi:include href="./acknowledgements.ptx" />
 </article>
